@@ -1,0 +1,22 @@
+---
+layout: post
+number: 43
+title:  "Apple Apps, MoviePass Changes, Venom Trailer"
+date:   2018-05-01 7:00:00
+categories: episodes
+podbeanId: "2tat6-905970"
+imageUrl: "http://atownfm.com/assets/a-town_logo_09.jpg"
+---
+
+This week we do a lot of complaining. First off Apple can’t seem to make a podcast app, Charlie has to walk Dan off a ledge over MoviePass changes, and finally we have some feelings about the newest Venom trailer.
+
+#### Show Notes:
+- [SpartanCog Turtle Feedback](https://www.reddit.com/r/atownfm/comments/8cvopy/41_tolkien_corner_british_royalty_chads_corner/dxjr6fh/)
+- [Cantor Correction](https://twitter.com/Mudkippey/status/989570551374020610)
+- [Overcast](https://overcast.fm/)
+- [Tweetbot](https://tapbots.com/tweetbot/)
+- [MoviePass Changes](https://www.theverge.com/2018/4/27/17291242/moviepass-unlimited-movie-deal-repeat-viewings-theater-blackouts)
+- [Venom Trailer](https://www.youtube.com/watch?v=u9Mv98Gr5pY)
+- [Podchaser](https://www.podchaser.com/podcasts/a-town-fm-541142)
+
+- [Patreon](https://www.patreon.com/atownfm)

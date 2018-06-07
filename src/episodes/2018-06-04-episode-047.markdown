@@ -1,0 +1,22 @@
+---
+layout: post
+number: 47
+title:  "Santa Cook"
+date:   2018-06-04 7:00:00
+categories: episodes
+podbeanId: "uthxe-928526"
+imageUrl: "http://atownfm.com/assets/a-town_logo_09.jpg"
+---
+
+This week Christmas comes early! Join us as we embark on a depressing journey down memory lane, see what Santa Cook is up to at WWDC, and inevitably discuss related technology.
+
+#### Show Notes:
+- [A-Town at the Movies](http://atownmovies.com/)
+- [EEG Correction](https://en.wikipedia.org/wiki/Electroencephalography)
+- [WWDC](https://en.wikipedia.org/wiki/Apple_Worldwide_Developers_Conference)
+- [Tim Cook](https://www.apple.com/leadership/tim-cook/)
+- [Overcast (Podcast App)](https://overcast.fm/)
+- [Castro (Podcast App)](http://supertop.co/castro/)
+- [iTunes Ping](https://en.wikipedia.org/wiki/ITunes_Ping)
+
+- [Patreon](https://www.patreon.com/atownfm)

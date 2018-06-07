@@ -1,0 +1,28 @@
+---
+layout: post
+number: 26
+title:  "Christmas Special"
+date:   2017-12-19 7:00:00
+categories: episodes
+podbeanId: "xhp55-7fd7b2"
+imageUrl: "http://atownfm.com/assets/a-town_icon_eps_026-Christmas_1400.jpg"
+---
+
+On this weeks episode we ride sugar plumb candy canes into our traditions, serve up a hearty helping other traditions, and rank our top Christmas films with a dose of holiday cheer. If you haven’t caught on yet: it’s a Christmas episode!
+
+<br/>
+<div style="margin:auto; max-width:300px; text-align: center">
+    <img src="{{ site.url }}/assets/dan-poster-gift.jpeg"/>
+    <h6 style="margin-top: -2px;">Dan's Christmas Present</h6>
+</div>
+
+#### Show Notes:
+- [Dan's Tree Crown](https://www.facebook.com/atownfm/photos/a.1544013712336879.1073741828.1536088059796111/1730669280337987/)
+- [Santa Clause Conquers the Martians](http://www.imdb.com/title/tt0058548/)
+- [Nutcracker in 3D](http://www.imdb.com/title/tt1041804/)
+- [Grandpa's Neighbor]()
+- [Krampus](https://en.wikipedia.org/wiki/Krampus)
+- [Krampuslauf Video](https://www.youtube.com/watch?v=mojrfw7SJ14&feature=youtu.be)
+- [Christmas Picker](https://en.wikipedia.org/wiki/Christmas_pickle)
+- [Deck the Chairs(in the comments)](https://www.facebook.com/atownfm/photos/a.1544013712336879.1073741828.1536088059796111/1730669280337987/)
+- [Poop Log (Tió de Nadal)](https://en.wikipedia.org/wiki/Ti%C3%B3_de_Nadal)

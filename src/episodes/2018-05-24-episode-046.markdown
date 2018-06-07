@@ -1,0 +1,22 @@
+---
+layout: post
+number: 46
+title:  "Pranks, Brains, and Propaganda"
+date:   2018-05-24 7:00:00
+categories: episodes
+podbeanId: "3xjbh-91df3d"
+imageUrl: "http://atownfm.com/assets/a-town_logo_09.jpg"
+---
+
+This week we roll out a few high school pranks, get in way over our heads speculating on brain science and AI, and finally put the age old debate on Propaganda (the concept, not the evangelical hip hop artist) to rest.
+
+#### Show Notes:
+- [Chickens in the Hallway](https://www.youtube.com/watch?v=DARrpE_Bw3A)
+- [Scientists Bring Brain Back to Life](http://pittsburgh.cbslocal.com/2018/05/17/pig-brain-reanimated-ethics/)
+- [EEG - Brain Scan](https://en.wikipedia.org/wiki/Electroencephalography)
+- [Alien Hand Syndrome](https://en.wikipedia.org/wiki/Alien_hand_syndrome)
+- [Hybrot (Rat Brain Robot)](https://en.wikipedia.org/wiki/Hybrot)
+- [Ship of Theseus Thought Experiment](https://en.wikipedia.org/wiki/Ship_of_Theseus)
+- [Superintelligence: Paths, Danger, Strategies - by Nick Bostrom](https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/0198739834/ref=sr_1_1?ie=UTF8&qid=1527123248&sr=8-1&keywords=superintelligence)
+
+- [Patreon](https://www.patreon.com/atownfm)

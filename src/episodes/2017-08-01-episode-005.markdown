@@ -1,0 +1,14 @@
+---
+layout: post
+number: 5
+title:  "War for the Planet of the Apes"
+date:   2017-08-01 9:00:00
+categories: episodes
+podbeanId: "v3ke5-6db971"
+imageUrl: "http://atownfm.com/assets/a-town_icon_eps_005.jpg"
+---
+
+On this episode, our two intrepid hosts get a little "bananas" when they review the crown of the Planet of the Apes reboot trilogies third film: War for the Planet of the Apes.
+
+#### Show Notes:
+- [Speedy Summaries](https://www.youtube.com/channel/UC6w9cRpymKzrl_L70Lg4BZw)

@@ -1,0 +1,22 @@
+---
+layout: post
+number: 9
+title:  "New Dog, Movie Pass, Cinema Sins, Practical vs VFX"
+date:   2017-08-23 7:00:00
+categories: episodes
+podbeanId: "f9c5f-701dbd"
+imageUrl: "http://atownfm.com/assets/a-town_logo_09.jpg"
+---
+
+This week we dive into the world of VFX, the podcast buys a new dog, movie pass is blowing up the industry, and then we tell you what the main stream media won't about the scourge of Cinema Sins.
+
+<br/>
+<div style="margin:auto; max-width:300px; text-align: center">
+    <img src="{{ site.url }}/assets/mr_frodo.jpg"/>
+    <h6 style="margin-top: -2px;">Mr. Frodo: Official Dog of the A-Town Podcast!</h6>
+</div>
+
+#### Show Notes:
+- [Movie Pass](https://www.moviepass.com/)
+- [Cinema Sins](https://www.youtube.com/channel/UCYUQQgogVeQY8cMQamhHJcg)
+- [Kurt Russel De-Aging Effect in 'Guardians of the Galaxy 2'](http://www.cartoonbrew.com/ideas-commentary/despite-says-kurt-russells-de-aging-guardians-galaxy-mostly-vfx-152752.html)

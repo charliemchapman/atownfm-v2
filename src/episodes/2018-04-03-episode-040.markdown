@@ -1,0 +1,20 @@
+---
+layout: post
+number: 40
+title:  "Ready Player One"
+date:   2018-04-03 7:00:00
+categories: episodes
+podbeanId: "f2dkg-8e80bb"
+imageUrl: "http://atownfm.com/assets/a-town_icon_eps_40_1400.jpg"
+---
+
+This week we put on our VR (AR?) goggles and collect all the keys to unlock Spielberg's latest film: Ready Player One.
+
+#### Show Notes:
+- [Ready Player One](http://www.imdb.com/title/tt1677720/)
+- [Robocop Scene](https://www.youtube.com/watch?v=mrXfh4hENKs)
+- [Robocop](http://www.imdb.com/title/tt0093870/?ref_=nv_sr_2)
+- [Starship Troopers](http://www.imdb.com/title/tt0120201/?ref_=nv_sr_1)
+- [Ender's Game](http://www.imdb.com/title/tt1731141/?ref_=nv_sr_1)
+
+- [Patreon](https://www.patreon.com/atownfm)

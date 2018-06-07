@@ -1,0 +1,20 @@
+---
+layout: post
+number: 10
+title:  "Retrospective, Nick's Corner, Eclipse Follow Up, Shirts!"
+date:   2017-08-29 7:00:00
+categories: episodes
+podbeanId: "j995k-70f4c1"
+imageUrl: "http://atownfm.com/assets/a-town_logo_09.jpg"
+---
+
+This week we look back on our illustrious podcasting careers, follow up on the Movie Pass and the total solar eclipse, and announce a few new ways to support the podcast.
+
+#### Show Notes:
+- [Movie Pass](https://www.moviepass.com/)
+- [Everything Wrong With Cinema Sins](https://www.youtube.com/watch?v=qvkZ8sCd5EI)
+- [Kurzgesagt – In a Nutshell](https://www.youtube.com/user/Kurzgesagt)
+- [Under Heaven Book](https://www.goodreads.com/book/show/7139892-under-heaven?ac=1)
+- [A-Town Patreon Page](https://www.patreon.com/atownfm)
+- [A-Town T-Shirts](http://atownfm.com/store)
+- [American Red Cross](https://www.redcross.org/donate/hurricane-harvey)

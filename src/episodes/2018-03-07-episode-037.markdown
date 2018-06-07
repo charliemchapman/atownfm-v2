@@ -1,0 +1,22 @@
+---
+layout: post
+number: 37
+title:  "Señor Putin"
+date:   2018-03-07 7:00:00
+categories: episodes
+podbeanId: "4q6ca-8cb9bf"
+imageUrl: "http://atownfm.com/assets/a-town_logo_09.jpg"
+---
+
+On this weeks episode we wrap up the Oscars from the red carpet, address grievances against us, discuss some coffee science, and decide Russia's olympics status.
+
+#### Show Notes:
+- [A-Town Oscar Ballot Results]({{ site.baseurl }}/oscars-picks-2018)
+- [Aeropress](https://aeropressinc.com/aeropress/)
+- [Aeropress Inverted Method](https://www.moustachecoffeeclub.com/aeropress-inverted-method-how-to-brew)
+- ["Water Towers" Photographs by Bernd and Hilla Becher](https://www.thebroad.org/art/bernd-and-hilla-becher/water-towers-0)
+- [Bernd and Hilla Becher](https://en.wikipedia.org/wiki/Bernd_and_Hilla_Becher)
+- [Two Bit Geeks](http://www.twobitgeeks.com/)
+- [Doping in Russia](https://en.wikipedia.org/wiki/Doping_in_Russia)
+
+- [Patreon](https://www.patreon.com/atownfm)

@@ -1,0 +1,20 @@
+---
+layout: post
+number: 38
+title:  "Settling the Score with Time Space and Reality"
+date:   2018-03-13 7:00:00
+categories: episodes
+podbeanId: "nfdr5-8d1e46"
+imageUrl: "http://atownfm.com/assets/a-town_logo_09.jpg"
+---
+
+On this week's episode we settle the score of the great Clockstoppers Kerfuffle, discuss military funerals and symbols, go into the matrix to defeat Agent Noah, and arise to the various deep depths of deep space!
+
+#### Show Notes:
+- [A-Town Oscar Ballot Results]({{ site.baseurl }}/oscars-picks-2018)
+- [Station 13 Episode about Japanese Business Culture](https://station13.fm/18/)
+- [Philosophers in Space Podcast](http://0gphilosophy.libsyn.com/website)
+- [Simulation Hypothesis](https://en.wikipedia.org/wiki/Simulation_hypothesis)
+- [Fermi Paradox](https://en.wikipedia.org/wiki/Fermi_paradox)
+
+- [Patreon](https://www.patreon.com/atownfm)

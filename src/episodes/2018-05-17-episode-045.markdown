@@ -1,0 +1,24 @@
+---
+layout: post
+number: 45
+title:  "Google Duplex, Movie Pass, Tolkien Corner, DC Streaming"
+date:   2018-05-17 7:00:00
+categories: episodes
+podbeanId: "mtbp7-916998"
+imageUrl: "http://atownfm.com/assets/a-town_logo_09.jpg"
+---
+
+This week our unconquerable hosts cover the newest changes made to Movie Pass in what is turning into a serialized universe of stories all to its own. From there we have the return of Tolkien Corner with all new news from the Middle Earth. Then we springboard into the new DC streaming app. Finally we contemplate the ethics of the new Google Duplex demo that’s sure to turn our world into a hellish landscape if gone unchecked.
+
+#### Show Notes:
+- [Movie Pass](https://www.moviepass.com/)
+- [Mortal Engines](https://www.youtube.com/watch?v=fupYIggOq38)
+- [DC Universe](https://www.theverge.com/2018/5/2/17312666/dc-universe-comics-streaming-service-website-name)
+- [MillarWorld](http://www.millarworld.tv/creators/mark-millar)
+- [Material Design](https://material.io/)
+- [New York City Transit Authority Graphics Standards Manual](https://standardsmanual.com/products/nyctacompactedition)
+- [NASA Graphics Standards Manual](https://standardsmanual.com/products/nasa-graphics-standards-manual)
+- [Google Duplex Demo](https://www.youtube.com/watch?v=bd1mEm2Fy08)
+- [Microsoft's Racist AI Twitterbot](https://www.theverge.com/2016/3/24/11297050/tay-microsoft-chatbot-racist)
+
+- [Patreon](https://www.patreon.com/atownfm)

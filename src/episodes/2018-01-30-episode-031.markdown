@@ -1,0 +1,26 @@
+---
+layout: post
+number: 31
+title:  "Offending Europe Part 2, TV remakes, Oscars Preshow"
+date:   2018-01-30 7:00:00
+categories: episodes
+podbeanId: "azt99-85eb86"
+imageUrl: "http://atownfm.com/assets/a-town_logo_09.jpg"
+---
+
+This week we kick things off with a bunch of tangents, one time I was going to the store and got in the line that said “10 items or less” and counted the guy in front of me who clearly had 12 items. Do yogurts count as individual items or is that considered...like...one product. Anyway back to the description.... we then head on to the the Great Movie Pass Dilemma, discuss some TV remakes and whether they’ll doom us all, and end talking a bit about the announced Oscar nominations.
+
+[A-Town FM Oscars Ballot 2018](https://goo.gl/forms/lXJiNfkdAK9UeH5Q2)
+
+#### Show Notes:
+- [Norway Episode](http://atownfm.com/episodes/2017/11/16/episode-021.html)
+- [Swedish Book Dan Was Talking About (The Quantum Thief)](https://en.wikipedia.org/wiki/The_Quantum_Thief)
+- [Dropbox doesn’t use Amazon Web Services](https://techcrunch.com/2017/09/15/why-dropbox-decided-to-drop-aws-and-build-its-own-infrastructure-and-network/)
+- [Amazon Go Store](https://www.amazon.com/b?node=16008589011)
+- [Amazon Go Shoplifting](https://www.washingtonpost.com/news/business/wp/2018/01/29/is-it-shoplifting-if-its-not-the-customers-fault-amazon-go-raises-questions-for-the-retail-industry/?utm_term=.3a5e04e6f8ac)
+- [Movie Pass Film Distributor?](http://variety.com/2018/film/news/moviepass-sundance-1202669456/)
+- [Movie Pass vs AMC](https://www.polygon.com/2018/1/25/16934190/moviepass-theatres-amc)
+- [Oscar Nominees 2018](https://en.wikipedia.org/wiki/90th_Academy_Awards#Nominees)
+- [D3: The Mighty Ducks - not starring Mark Wahlberg](http://www.imdb.com/title/tt0116000/?ref_=nv_sr_1)
+- [Puppies!](https://www.google.com/search?biw=1023&bih=776&tbm=isch&sa=1&ei=quhvWoq_E4r0zgLw5rTwBg&q=cute+puppies&oq=cute+puppies&gs_l=psy-ab.3..0i67k1j0l9.4410.4410.0.4628.1.1.0.0.0.0.77.77.1.1.0....0...1c.1.64.psy-ab..0.1.77....0.a5YKZRzEbvg)
+- [Patreon](https://www.patreon.com/atownfm)

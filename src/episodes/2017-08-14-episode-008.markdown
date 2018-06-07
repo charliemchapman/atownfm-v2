@@ -1,0 +1,16 @@
+---
+layout: post
+number: 8
+title:  "Solar Eclipse Talk with Meteorologist Kevin C. Burns"
+date:   2017-08-14 9:00:00
+categories: episodes
+podbeanId: "3g39u-6f2c8a"
+imageUrl: "http://atownfm.com/assets/a-town_icon_eps_008_eclipse.jpg"
+---
+
+This week our two fearless hosts take on the topic of the upcoming total solar eclipse with real life meteorologist Kevin C. Burns!  We also ask "What does a meteorologist do anyway?", and discuss our nerdy pasts growing up together in the midwest.
+
+#### Show Notes:
+- [Your Wedding Weather](https://www.facebook.com/yourweddingweather/)
+- [NASA Eclipse Safety](https://eclipse2017.nasa.gov/safety)
+- [Weathernews](https://global.weathernews.com/)

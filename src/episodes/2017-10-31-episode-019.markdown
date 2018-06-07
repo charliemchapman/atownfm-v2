@@ -1,0 +1,25 @@
+---
+layout: post
+number: 19
+title:  "The Halloween Spooktacular"
+date:   2017-10-31 7:00:00
+categories: episodes
+podbeanId: "xmyjx-79af87"
+imageUrl: "http://atownfm.com/assets/atown_eps_019_halloween_icon.jpg"
+---
+
+This week we hack up some follow up, share some harrowing Halloween memories, haunt your dreams with our top five horror films, and scare the ever living "stuff" out of you with some international traditions! It’s our annual blood drenched Spooktacular!
+
+<br/>
+<div style="margin:auto; max-width:300px; text-align: center">
+    <img src="{{ site.url }}/assets/dan-pink-tux.jpg"/>
+    <h6 style="margin-top: -2px;">Dan's Glorious Pink Tux</h6>
+</div>
+
+#### Show Notes:
+- [Days of Thunder](http://www.imdb.com/title/tt0099371/)
+- [Reddit CO Poisoning](https://www.reddit.com/r/legaladvice/comments/34l7vo/ma_postit_notes_left_in_apartment/)
+- [Barmbrack Bread](https://en.wikipedia.org/wiki/Barmbrack)
+- [Kawasaki Halloween Parade](https://tokyocheapo.com/events/kawasaki-halloween-parade/)
+- [Kaptain Kristian - Night of the Living Dead Video](https://www.youtube.com/watch?v=UI1kqlt4vkA)
+- [A-Town Subreddit](https://www.reddit.com/r/atownfm/)

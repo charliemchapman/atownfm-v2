@@ -1,0 +1,16 @@
+---
+layout: post
+number: 42
+title:  "A Quiet Place"
+date:   2018-04-24 7:00:00
+categories: episodes
+podbeanId: "hdrme-8fde48"
+imageUrl: "http://atownfm.com/assets/a-town_icon_eps_042-quietplace_03.jpg"
+---
+
+🚿🚿🚿*quietly* on this weeks episode we quietly discuss John Krasinksi’s directorial masterpiece “A Quiet Place.”🚿🚿🚿
+
+#### Show Notes:
+- [A Quiet Place](https://www.imdb.com/title/tt6644200/)
+
+- [Patreon](https://www.patreon.com/atownfm)

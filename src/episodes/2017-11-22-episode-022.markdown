@@ -1,0 +1,14 @@
+---
+layout: post
+number: 22
+title:  "Thor Ragnarok"
+date:   2017-11-22 7:00:00
+categories: episodes
+podbeanId: "6x5u7-7ccd9a"
+imageUrl: "http://atownfm.com/assets/a-town_icon_eps_022-thor_1400.jpg"
+---
+
+This week the halls of Valhalla are shaken to the core as we reveal our review of Thor: Ragnarok. In the first third of our assault we also get wildly off topic several times. To Asgard!
+
+#### Show Notes:
+- [Thor Ragnarok](http://www.imdb.com/title/tt3501632/)
