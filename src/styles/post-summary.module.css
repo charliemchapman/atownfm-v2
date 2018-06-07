@@ -1,0 +1,18 @@
+.content {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 770px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 60px;
+}
+
+.post {
+    border-bottom: 1px solid #DDD;
+    padding-bottom: 20px;
+    margin-bottom: 40px;
+}
+
+.title {
+    color: #607D37;
+}

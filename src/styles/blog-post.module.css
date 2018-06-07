@@ -1,0 +1,13 @@
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 80px;
+    max-width: 770px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.container h1, .container h2, .container h3, .container h4 {
+    border-bottom: none;
+    color: #607D37;
+}
