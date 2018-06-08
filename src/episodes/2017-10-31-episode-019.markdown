@@ -10,6 +10,8 @@ imageUrl: "http://atownfm.com/assets/atown_eps_019_halloween_icon.jpg"
 
 This week we hack up some follow up, share some harrowing Halloween memories, haunt your dreams with our top five horror films, and scare the ever living "stuff" out of you with some international traditions! It’s our annual blood drenched Spooktacular!
 
+<!-- excerpt-end -->
+
 <br/>
 <div style="margin:auto; max-width:300px; text-align: center">
     <img src="{{ site.url }}/assets/dan-pink-tux.jpg"/>

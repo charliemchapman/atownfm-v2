@@ -10,6 +10,8 @@ imageUrl: "http://atownfm.com/assets/a-town_logo_09.jpg"
 
 On this weeks episode, armed with only their voices to protect them, our two host delve into the deep deep thicket of listeners feedback, the hidden world of jazz music, and Dan's problems with everyday simple technology.
 
+<!-- excerpt-end -->
+
 #### Show Notes:
 - [Google Inbox](https://www.google.com/inbox/)
 - [Cortex Podcast About Email](https://www.relay.fm/cortex/7)

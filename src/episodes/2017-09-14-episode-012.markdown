@@ -10,6 +10,8 @@ imageUrl: "http://atownfm.com/assets/a-town_icon_eps_013-IT_02.jpg"
 
 On this episode our fearful hosts discuss horror movies, why we're afraid, whether or not our grandparents gave us lasting childhood trauma, and finally the new adaptation of Stephen King's IT behind the spoiler wall!
 
+<!-- excerpt-end -->
+
 #### Show Notes:
 - [Nine Inch Nails - Ghosts I-IV](https://en.wikipedia.org/wiki/Ghosts_I%E2%80%93IV)
 

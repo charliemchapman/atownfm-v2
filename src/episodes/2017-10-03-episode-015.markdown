@@ -10,6 +10,8 @@ imageUrl: "http://atownfm.com/assets/a-town_icon_eps_015-OG-BladeRunner.png"
 
 This week our two hosts are your one stop shop for everything coffee cups, then they take you kicking and screaming into the world of new iOS 11 AR apps, and finally they prepare for the spectacular event of the year that is Bladerunner 2049 by reviewing the original and their not so fond memories of it. Has anything changed? Find out!
 
+<!-- excerpt-end -->
+
 #### Show Notes:
 - [Why does water taste different in different material?](https://www.reddit.com/r/explainlikeimfive/comments/4ytmri/eli5_why_does_water_taste_differently_based_on/)
 - [IKEA Place - AR app](https://itunes.apple.com/us/app/ikea-place/id1279244498?mt=8)

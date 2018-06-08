@@ -10,6 +10,8 @@ imageUrl: "http://atownfm.com/assets/a-town_icon_eps_041_turtle-main.jpg"
 
 This week we wonder if there’s a gas leak at Apple, discuss Tolkien’s new book news and Amazon show, ponder what British royalty does, discuss Gilmore girls, and finally dive deep into our secret patron funded Chad's Corner that’ll blow your mind.
 
+<!-- excerpt-end -->
+
 #### Show Notes:
 - [Overcast](https://overcast.fm/)
 - [Fall of Gondolin](https://en.wikipedia.org/wiki/Fall_of_Gondolin)

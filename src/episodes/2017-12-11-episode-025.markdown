@@ -10,6 +10,8 @@ imageUrl: "http://atownfm.com/assets/a-town_icon_eps_025-StrangerThings2_01.jpg"
 
 This week's episode Dan tells a story about a meltdown he had, we review the Alkhobar Water Tower in Saudi Arabia, Charlie realizes he’s been sending mixed signals to his coworkers with choice of emojis, and we discuss Stranger Things 2!
 
+<!-- excerpt-end -->
+
 #### Show Notes:
 - [Alkhobar Water Tower](http://www.arabnews.com/saudi-arabia/news/855901)
 - [Smirking Face Emoji](https://emojipedia.org/smirking-face/)

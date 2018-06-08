@@ -11,8 +11,20 @@
     border-bottom: 1px solid #DDD;
     padding-bottom: 20px;
     margin-bottom: 40px;
+    display: flex;
 }
 
 .title {
     color: #607D37;
+}
+
+.image {
+    width: 100px;
+    margin-right: 20px;
+    margin-top: 30px;
+    flex-shrink: 0;
+}
+
+.image img{
+    width: 100%;
 }

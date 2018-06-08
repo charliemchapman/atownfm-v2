@@ -10,6 +10,8 @@ imageUrl: "http://atownfm.com/assets/a-town_logo_09.jpg"
 
 On this episode our two intrepid hosts explore the universe of Bungie's newly released Destiny 2, discuss consoles and their qualities, Charlie introduces Dan to Stack Exchange, and they discuss potential new possibilities in the world of television scheduling.
 
+<!-- excerpt-end -->
+
 
 #### Show Notes:
 - [Stack Exchange](https://stackexchange.com/)

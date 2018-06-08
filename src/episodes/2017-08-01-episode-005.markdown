@@ -10,5 +10,7 @@ imageUrl: "http://atownfm.com/assets/a-town_icon_eps_005.jpg"
 
 On this episode, our two intrepid hosts get a little "bananas" when they review the crown of the Planet of the Apes reboot trilogies third film: War for the Planet of the Apes.
 
+<!-- excerpt-end -->
+
 #### Show Notes:
 - [Speedy Summaries](https://www.youtube.com/channel/UC6w9cRpymKzrl_L70Lg4BZw)

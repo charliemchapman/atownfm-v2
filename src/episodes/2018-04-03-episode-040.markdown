@@ -10,6 +10,8 @@ imageUrl: "http://atownfm.com/assets/a-town_icon_eps_40_1400.jpg"
 
 This week we put on our VR (AR?) goggles and collect all the keys to unlock Spielberg's latest film: Ready Player One.
 
+<!-- excerpt-end -->
+
 #### Show Notes:
 - [Ready Player One](http://www.imdb.com/title/tt1677720/)
 - [Robocop Scene](https://www.youtube.com/watch?v=mrXfh4hENKs)

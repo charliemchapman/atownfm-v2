@@ -10,6 +10,8 @@ imageUrl: "http://atownfm.com/assets/a-town_icon_eps_036-oscars_metal.jpg"
 
 This week we go through our votes for what we think will win in the Oscars categories and chase down every rabbit trail along the way.
 
+<!-- excerpt-end -->
+
 #### Show Notes:
 - [List of Academy Award records](https://en.wikipedia.org/wiki/List_of_Academy_Award_records)
 - [Linotype: The Film - Trailer](https://www.youtube.com/watch?v=avDuKuBNuCk)

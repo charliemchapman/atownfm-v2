@@ -10,6 +10,8 @@ imageUrl: "http://atownfm.com/assets/a-town_logo_09.jpg"
 
 This week Christmas comes early! Join us as we embark on a depressing journey down memory lane, see what Santa Cook is up to at WWDC, and inevitably discuss related technology.
 
+<!-- excerpt-end -->
+
 #### Show Notes:
 - [A-Town at the Movies](http://atownmovies.com/)
 - [EEG Correction](https://en.wikipedia.org/wiki/Electroencephalography)

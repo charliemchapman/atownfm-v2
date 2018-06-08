@@ -7,7 +7,7 @@ export default ({episode}) => { console.log("la", episode); return (
     <div className={styles.content}>
         <h1>
           <Link to={episode.fields.slug} className={styles.title}>
-            {episode.frontmatter.title} 
+            #{episode.frontmatter.number} - {episode.frontmatter.title}
           </Link>
         </h1>
         <div className={styles.date}>{episode.frontmatter.date}</div>

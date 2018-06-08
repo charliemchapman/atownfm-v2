@@ -10,6 +10,8 @@ imageUrl: "http://atownfm.com/assets/a-town_logo_09.jpg"
 
 This week we kick things off with a little advanced grammar, discuss the state of the postal industry, move to settle issues surrounding jury duty and selective services, give our take on the new Nintendo Labo announcement, and finally dissect the science of plot holes.
 
+<!-- excerpt-end -->
+
 #### Show Notes:
 - [Sic - Grammarly](https://www.grammarly.com/blog/sic/)
 - [Station 13 Japanese Business Practice Episode](https://station13.fm/18/)

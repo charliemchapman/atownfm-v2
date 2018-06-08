@@ -10,6 +10,8 @@ imageUrl: "http://atownfm.com/assets/a-town_icon_eps_020-bonfire_01_1400.jpg"
 
 This year A-Town remember remembers the 5th of November with treason and plot. We wouldn’t forget the the fifth of November, bonfire night or not. Oh and we talk about V for Vendetta too.
 
+<!-- excerpt-end -->
+
 #### Show Notes:
 - [Bonfire Night (Guy Fawkes Night)](https://en.wikipedia.org/wiki/Guy_Fawkes_Night)
 - [Hardcore History: Prophets of Doom](http://www.dancarlin.com/product/hardcore-history-48-prophets-of-doom/)

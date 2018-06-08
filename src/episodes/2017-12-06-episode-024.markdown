@@ -10,6 +10,8 @@ imageUrl: "http://atownfm.com/assets/a-town_logo_09.jpg"
 
 On this week we delve into whether Batman is and should be a murdering psychopath, how Star Wars should treat its canon material, whether EA is doing the right thing with Battlefront, and finally Dan attempts to define a criteria for Christmas movies while Charlie forces Die Hard into the discussion tangentially. Be prepared: we’re gonna break your one rule.
 
+<!-- excerpt-end -->
+
 #### Unoffical Sponsor
 - [Overcast](https://overcast.fm)
 - [Forecast](https://overcast.fm/forecast)

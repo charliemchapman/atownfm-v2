@@ -10,6 +10,8 @@ imageUrl: "http://atownfm.com/assets/a-town_logo_09.jpg"
 
 This week Charlie got into some Bawston drama, we get into a heated debate about the merits of color field paintings, discuss time travel according to Dr Manhattan, and more cheesy pizza talk.
 
+<!-- excerpt-end -->
+
 #### Show Notes:
 - [Boston Subreddit](https://www.reddit.com/r/boston/)
 - [Redlining](https://en.wikipedia.org/wiki/Redlining)

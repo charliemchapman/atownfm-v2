@@ -10,6 +10,8 @@ imageUrl: "http://atownfm.com/assets/a-town_icon_eps_042-quietplace_03.jpg"
 
 🚿🚿🚿*quietly* on this weeks episode we quietly discuss John Krasinksi’s directorial masterpiece “A Quiet Place.”🚿🚿🚿
 
+<!-- excerpt-end -->
+
 #### Show Notes:
 - [A Quiet Place](https://www.imdb.com/title/tt6644200/)
 

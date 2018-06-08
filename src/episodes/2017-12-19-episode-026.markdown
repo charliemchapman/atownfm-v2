@@ -10,6 +10,8 @@ imageUrl: "http://atownfm.com/assets/a-town_icon_eps_026-Christmas_1400.jpg"
 
 On this weeks episode we ride sugar plumb candy canes into our traditions, serve up a hearty helping other traditions, and rank our top Christmas films with a dose of holiday cheer. If you haven’t caught on yet: it’s a Christmas episode!
 
+<!-- excerpt-end -->
+
 <br/>
 <div style="margin:auto; max-width:300px; text-align: center">
     <img src="{{ site.url }}/assets/dan-poster-gift.jpeg"/>

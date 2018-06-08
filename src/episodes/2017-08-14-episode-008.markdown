@@ -10,6 +10,8 @@ imageUrl: "http://atownfm.com/assets/a-town_icon_eps_008_eclipse.jpg"
 
 This week our two fearless hosts take on the topic of the upcoming total solar eclipse with real life meteorologist Kevin C. Burns!  We also ask "What does a meteorologist do anyway?", and discuss our nerdy pasts growing up together in the midwest.
 
+<!-- excerpt-end -->
+
 #### Show Notes:
 - [Your Wedding Weather](https://www.facebook.com/yourweddingweather/)
 - [NASA Eclipse Safety](https://eclipse2017.nasa.gov/safety)

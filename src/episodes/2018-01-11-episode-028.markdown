@@ -10,6 +10,8 @@ imageUrl: "http://atownfm.com/assets/a-town_logo_09.jpg"
 
 As our intrepid hosts brave the new year, they go through a series of lists meant to wet your appetite for beginning 2018. Charlie complains about technical problems, Dan's lost his voice, and then it’s lists all the way down.
 
+<!-- excerpt-end -->
+
 #### Show Notes:
 - [Dani Wright (Station 13)](https://twitter.com/danielpwright)
 - [Tom (Two Bit Geeks)](https://twitter.com/twobitgeeks)
