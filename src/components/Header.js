@@ -12,13 +12,13 @@ function getLinks(closeMenu) {
       (<Link to="/subscribe" onClick={closeMenu}>
         <div className={styles.link}>Subscribe</div>
       </Link>),
-      (<Link to="/subscribe" onClick={closeMenu}>
+      (<Link to="/patreon" onClick={closeMenu}>
         <div className={styles.link}>Patreon</div>
       </Link>),
-      (<Link to="/subscribe" onClick={closeMenu}>
+      (<Link to="/about" onClick={closeMenu}>
         <div className={styles.link}>About</div>
       </Link>),
-      (<Link to="/subscribe" onClick={closeMenu}>
+      (<Link to="/shows" onClick={closeMenu}>
         <div className={styles.link}>Shows</div>
       </Link>)
     ]
