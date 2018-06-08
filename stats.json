@@ -1,56 +1,132 @@
 {
   "assetsByChunkName": {
-    "path---episodes-015-deadpool": [
-      "path---episodes-015-deadpool-65d75970d7f04f259743.js",
-      "path---episodes-015-deadpool-65d75970d7f04f259743.js.map"
+    "path---episodes-2018-04-03-episode-040": [
+      "path---episodes-2018-04-03-episode-040-91e5c2a67e3353f84a54.js",
+      "path---episodes-2018-04-03-episode-040-91e5c2a67e3353f84a54.js.map"
     ],
-    "path---episodes-010-black-panther": [
-      "path---episodes-010-black-panther-7157fb9f9b653cd67da6.js",
-      "path---episodes-010-black-panther-7157fb9f9b653cd67da6.js.map"
+    "path---episodes-2018-01-11-episode-028": [
+      "path---episodes-2018-01-11-episode-028-e44050cef8dca44670b6.js",
+      "path---episodes-2018-01-11-episode-028-e44050cef8dca44670b6.js.map"
     ],
-    "path---episodes-005-blade-runner-2049": [
-      "path---episodes-005-blade-runner-2049-42d297e3fdc0ce9608c1.js",
-      "path---episodes-005-blade-runner-2049-42d297e3fdc0ce9608c1.js.map"
+    "path---episodes-2017-07-12-episode-001": [
+      "path---episodes-2017-07-12-episode-001-1ce2b8f3fb785036a9b8.js",
+      "path---episodes-2017-07-12-episode-001-1ce2b8f3fb785036a9b8.js.map"
+    ],
+    "path---episodes-2017-09-14-episode-012": [
+      "path---episodes-2017-09-14-episode-012-0637de3e1b6c11e5dd9f.js",
+      "path---episodes-2017-09-14-episode-012-0637de3e1b6c11e5dd9f.js.map"
+    ],
+    "path---episodes-2018-02-13-episode-032": [
+      "path---episodes-2018-02-13-episode-032-2d4f6cc7bfc8e239d591.js",
+      "path---episodes-2018-02-13-episode-032-2d4f6cc7bfc8e239d591.js.map"
+    ],
+    "path---episodes-2018-03-13-episode-038": [
+      "path---episodes-2018-03-13-episode-038-5fdef879af6bca1c2768.js",
+      "path---episodes-2018-03-13-episode-038-5fdef879af6bca1c2768.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-91daefede0f80513c40f.js",
-      "component---src-pages-index-js-91daefede0f80513c40f.js.map"
+      "component---src-pages-index-js-131bb46b3531b8510ba9.js",
+      "component---src-pages-index-js-131bb46b3531b8510ba9.js.map"
     ],
-    "path---episodes-013-infinity-war": [
-      "path---episodes-013-infinity-war-cabe513f6dfab70790aa.js",
-      "path---episodes-013-infinity-war-cabe513f6dfab70790aa.js.map"
+    "path---episodes-2018-03-26-episode-039": [
+      "path---episodes-2018-03-26-episode-039-2966e17087303828723a.js",
+      "path---episodes-2018-03-26-episode-039-2966e17087303828723a.js.map"
+    ],
+    "path---episodes-2017-10-11-episode-016": [
+      "path---episodes-2017-10-11-episode-016-81e7105ff3c78d408199.js",
+      "path---episodes-2017-10-11-episode-016-81e7105ff3c78d408199.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
-    "path---episodes-002-spider-man-homecoming": [
-      "path---episodes-002-spider-man-homecoming-518ac49cbb7ced04e363.js",
-      "path---episodes-002-spider-man-homecoming-518ac49cbb7ced04e363.js.map"
+    "path---episodes-2017-12-11-episode-025": [
+      "path---episodes-2017-12-11-episode-025-9cb5d82b7d389995a28a.js",
+      "path---episodes-2017-12-11-episode-025-9cb5d82b7d389995a28a.js.map"
+    ],
+    "path---episodes-2017-10-17-episode-017": [
+      "path---episodes-2017-10-17-episode-017-3d69b37104daab620cf8.js",
+      "path---episodes-2017-10-17-episode-017-3d69b37104daab620cf8.js.map"
+    ],
+    "path---episodes-2017-12-06-episode-024": [
+      "path---episodes-2017-12-06-episode-024-dc41c9bd34d1c61a2b99.js",
+      "path---episodes-2017-12-06-episode-024-dc41c9bd34d1c61a2b99.js.map"
+    ],
+    "path---episodes-2017-09-25-episode-014": [
+      "path---episodes-2017-09-25-episode-014-fb7f40e0d666af02f0e2.js",
+      "path---episodes-2017-09-25-episode-014-fb7f40e0d666af02f0e2.js.map"
+    ],
+    "path---episodes-2018-05-17-episode-045": [
+      "path---episodes-2018-05-17-episode-045-ae55b5c5d5b6c983185f.js",
+      "path---episodes-2018-05-17-episode-045-ae55b5c5d5b6c983185f.js.map"
+    ],
+    "path---episodes-2017-10-31-episode-019": [
+      "path---episodes-2017-10-31-episode-019-d8d38402f583ab1a7036.js",
+      "path---episodes-2017-10-31-episode-019-d8d38402f583ab1a7036.js.map"
     ],
     "component---src-templates-blog-post-js": [
-      "component---src-templates-blog-post-js-6fd638a75a91bf313dca.js",
-      "component---src-templates-blog-post-js-6fd638a75a91bf313dca.js.map"
+      "component---src-templates-blog-post-js-3bffd93cbded5551d597.js",
+      "component---src-templates-blog-post-js-3bffd93cbded5551d597.js.map"
+    ],
+    "path---episodes-2017-12-19-episode-026": [
+      "path---episodes-2017-12-19-episode-026-dfbed8ef84093d1b7fd2.js",
+      "path---episodes-2017-12-19-episode-026-dfbed8ef84093d1b7fd2.js.map"
+    ],
+    "path---episodes-2017-10-03-episode-015": [
+      "path---episodes-2017-10-03-episode-015-341a83393bbf8e873eec.js",
+      "path---episodes-2017-10-03-episode-015-341a83393bbf8e873eec.js.map"
+    ],
+    "path---episodes-2017-12-25-episode-027": [
+      "path---episodes-2017-12-25-episode-027-d36e9a0ab25074a18988.js",
+      "path---episodes-2017-12-25-episode-027-d36e9a0ab25074a18988.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-c945e3557e123060eb0f.js",
-      "component---src-layouts-index-js-c945e3557e123060eb0f.js.map"
+      "component---src-layouts-index-js-dd71c17087619cb5c538.js",
+      "component---src-layouts-index-js-dd71c17087619cb5c538.js.map"
     ],
-    "path---episodes-001-baby-driver": [
-      "path---episodes-001-baby-driver-7548098f6eaccc0c52cd.js",
-      "path---episodes-001-baby-driver-7548098f6eaccc0c52cd.js.map"
+    "path---episodes-2017-08-08-episode-007": [
+      "path---episodes-2017-08-08-episode-007-f9d4bd296cb9445dfd4a.js",
+      "path---episodes-2017-08-08-episode-007-f9d4bd296cb9445dfd4a.js.map"
+    ],
+    "path---episodes-2018-02-22-episode-035": [
+      "path---episodes-2018-02-22-episode-035-2de4a3bb3933f640b78e.js",
+      "path---episodes-2018-02-22-episode-035-2de4a3bb3933f640b78e.js.map"
+    ],
+    "path---episodes-2017-08-01-episode-005": [
+      "path---episodes-2017-08-01-episode-005-338b5bc1689facea5b55.js",
+      "path---episodes-2017-08-01-episode-005-338b5bc1689facea5b55.js.map"
+    ],
+    "path---episodes-2018-05-01-episode-043": [
+      "path---episodes-2018-05-01-episode-043-31670098d927fa0a672f.js",
+      "path---episodes-2018-05-01-episode-043-31670098d927fa0a672f.js.map"
     ],
     "path---index": [
-      "path---index-22887ac2a1c4a6097c01.js",
-      "path---index-22887ac2a1c4a6097c01.js.map"
+      "path---index-fd5c29d37664190cff8b.js",
+      "path---index-fd5c29d37664190cff8b.js.map"
     ],
     "path---subscribe": [
       "path---subscribe-a0e39f21c11f6a62c5ab.js",
       "path---subscribe-a0e39f21c11f6a62c5ab.js.map"
     ],
-    "path---episodes-003-war-for-the-planet-of-the-apes": [
-      "path---episodes-003-war-for-the-planet-of-the-apes-85024273a7e47fea2141.js",
-      "path---episodes-003-war-for-the-planet-of-the-apes-85024273a7e47fea2141.js.map"
+    "path---episodes-2017-07-17-episode-003": [
+      "path---episodes-2017-07-17-episode-003-b5000c648b4f71229ee2.js",
+      "path---episodes-2017-07-17-episode-003-b5000c648b4f71229ee2.js.map"
+    ],
+    "path---episodes-2018-04-24-episode-042": [
+      "path---episodes-2018-04-24-episode-042-7344b262bce74ebd88f7.js",
+      "path---episodes-2018-04-24-episode-042-7344b262bce74ebd88f7.js.map"
+    ],
+    "path---episodes-2018-06-04-episode-047": [
+      "path---episodes-2018-06-04-episode-047-6c609a9843775ddbfb09.js",
+      "path---episodes-2018-06-04-episode-047-6c609a9843775ddbfb09.js.map"
+    ],
+    "path---episodes-2018-05-06-episode-044": [
+      "path---episodes-2018-05-06-episode-044-23a2f4c531cf811f414a.js",
+      "path---episodes-2018-05-06-episode-044-23a2f4c531cf811f414a.js.map"
+    ],
+    "path---episodes-2017-11-16-episode-021": [
+      "path---episodes-2017-11-16-episode-021-bc370fb0c5fd8df8e935.js",
+      "path---episodes-2017-11-16-episode-021-bc370fb0c5fd8df8e935.js.map"
     ],
     "commons": [
       "commons-afb5782224ac01f1fa03.js",
@@ -58,47 +134,99 @@
       "commons-afb5782224ac01f1fa03.js.map",
       "build-js-styles.css.map"
     ],
-    "path---episodes-004-dunkirk": [
-      "path---episodes-004-dunkirk-327c8e0dc96f6f42b9a7.js",
-      "path---episodes-004-dunkirk-327c8e0dc96f6f42b9a7.js.map"
+    "path---episodes-2017-08-03-episode-006": [
+      "path---episodes-2017-08-03-episode-006-fda66bd3bcf5d16a0013.js",
+      "path---episodes-2017-08-03-episode-006-fda66bd3bcf5d16a0013.js.map"
     ],
-    "path---episodes-012-a-quiet-place": [
-      "path---episodes-012-a-quiet-place-69183e66affa85c701d2.js",
-      "path---episodes-012-a-quiet-place-69183e66affa85c701d2.js.map"
+    "path---episodes-2018-05-24-episode-046": [
+      "path---episodes-2018-05-24-episode-046-930151f85e006937b7e7.js",
+      "path---episodes-2018-05-24-episode-046-930151f85e006937b7e7.js.map"
+    ],
+    "path---episodes-2018-01-30-episode-031": [
+      "path---episodes-2018-01-30-episode-031-0ce43d0cd3eeeb3ef86f.js",
+      "path---episodes-2018-01-30-episode-031-0ce43d0cd3eeeb3ef86f.js.map"
+    ],
+    "path---episodes-2017-07-13-episode-002": [
+      "path---episodes-2017-07-13-episode-002-56214dc7848c63ef5f2b.js",
+      "path---episodes-2017-07-13-episode-002-56214dc7848c63ef5f2b.js.map"
+    ],
+    "path---episodes-2017-08-14-episode-008": [
+      "path---episodes-2017-08-14-episode-008-059381cee50ee02f8881.js",
+      "path---episodes-2017-08-14-episode-008-059381cee50ee02f8881.js.map"
+    ],
+    "path---episodes-2017-11-30-episode-023": [
+      "path---episodes-2017-11-30-episode-023-a3e6e70254214cc17dfb.js",
+      "path---episodes-2017-11-30-episode-023-a3e6e70254214cc17dfb.js.map"
+    ],
+    "path---episodes-2017-09-07-episode-011": [
+      "path---episodes-2017-09-07-episode-011-038c08d22a4577156578.js",
+      "path---episodes-2017-09-07-episode-011-038c08d22a4577156578.js.map"
+    ],
+    "path---episodes-2018-02-20-episode-034": [
+      "path---episodes-2018-02-20-episode-034-cfd5389ce388078030d7.js",
+      "path---episodes-2018-02-20-episode-034-cfd5389ce388078030d7.js.map"
+    ],
+    "path---episodes-2018-02-13-episode-033": [
+      "path---episodes-2018-02-13-episode-033-dd15ed2a54c7dc514fe5.js",
+      "path---episodes-2018-02-13-episode-033-dd15ed2a54c7dc514fe5.js.map"
     ],
     "component---src-pages-subscribe-js": [
       "component---src-pages-subscribe-js-27a83756282eb6b42ae1.js",
       "component---src-pages-subscribe-js-27a83756282eb6b42ae1.js.map"
     ],
+    "path---episodes-2017-09-18-episode-013": [
+      "path---episodes-2017-09-18-episode-013-effde7f03e903b0c4022.js",
+      "path---episodes-2017-09-18-episode-013-effde7f03e903b0c4022.js.map"
+    ],
+    "path---episodes-2018-01-23-episode-030": [
+      "path---episodes-2018-01-23-episode-030-a82e6c984647a16b9735.js",
+      "path---episodes-2018-01-23-episode-030-a82e6c984647a16b9735.js.map"
+    ],
+    "path---episodes-2017-11-22-episode-022": [
+      "path---episodes-2017-11-22-episode-022-e8e2cd4b1697d7a18ca1.js",
+      "path---episodes-2017-11-22-episode-022-e8e2cd4b1697d7a18ca1.js.map"
+    ],
+    "path---episodes-2017-11-05-episode-020": [
+      "path---episodes-2017-11-05-episode-020-9b61194474bc7464e8dd.js",
+      "path---episodes-2017-11-05-episode-020-9b61194474bc7464e8dd.js.map"
+    ],
     "app": [
-      "app-9e0c922bb33e0ad22132.js",
+      "app-84af5e02522ab61bb8e8.js",
       "build-js-styles.css",
-      "app-9e0c922bb33e0ad22132.js.map",
+      "app-84af5e02522ab61bb8e8.js.map",
       "build-js-styles.css.map"
     ],
-    "path---episodes-008-star-wars-the-last-jedi": [
-      "path---episodes-008-star-wars-the-last-jedi-882b7ca3bf660659f0ae.js",
-      "path---episodes-008-star-wars-the-last-jedi-882b7ca3bf660659f0ae.js.map"
+    "path---episodes-2017-10-24-episode-018": [
+      "path---episodes-2017-10-24-episode-018-abc6457f4b1500dbdab2.js",
+      "path---episodes-2017-10-24-episode-018-abc6457f4b1500dbdab2.js.map"
     ],
-    "path---episodes-009-cloverfield-paradox": [
-      "path---episodes-009-cloverfield-paradox-b4cee72743524223406c.js",
-      "path---episodes-009-cloverfield-paradox-b4cee72743524223406c.js.map"
+    "path---episodes-2018-03-07-episode-037": [
+      "path---episodes-2018-03-07-episode-037-17bb1aaa2c8b8ea493fc.js",
+      "path---episodes-2018-03-07-episode-037-17bb1aaa2c8b8ea493fc.js.map"
     ],
-    "path---episodes-006-thor-ragnarok": [
-      "path---episodes-006-thor-ragnarok-50518e70bee1e71c24cc.js",
-      "path---episodes-006-thor-ragnarok-50518e70bee1e71c24cc.js.map"
+    "path---episodes-2018-02-28-episode-036": [
+      "path---episodes-2018-02-28-episode-036-5756e7d3fa7bd13ee447.js",
+      "path---episodes-2018-02-28-episode-036-5756e7d3fa7bd13ee447.js.map"
     ],
-    "path---episodes-014-solo": [
-      "path---episodes-014-solo-86f556797e0a9469e107.js",
-      "path---episodes-014-solo-86f556797e0a9469e107.js.map"
+    "path---episodes-2018-04-17-episode-041": [
+      "path---episodes-2018-04-17-episode-041-8450776891be840e0840.js",
+      "path---episodes-2018-04-17-episode-041-8450776891be840e0840.js.map"
     ],
-    "path---episodes-007-justice-league": [
-      "path---episodes-007-justice-league-a804a7ccc1f565b81c69.js",
-      "path---episodes-007-justice-league-a804a7ccc1f565b81c69.js.map"
+    "path---episodes-2017-07-24-episode-004": [
+      "path---episodes-2017-07-24-episode-004-3939b4805daa7323dd68.js",
+      "path---episodes-2017-07-24-episode-004-3939b4805daa7323dd68.js.map"
     ],
-    "path---episodes-011-ready-player-one": [
-      "path---episodes-011-ready-player-one-8dd33a783c2967aa73de.js",
-      "path---episodes-011-ready-player-one-8dd33a783c2967aa73de.js.map"
+    "path---episodes-2018-01-17-episode-029": [
+      "path---episodes-2018-01-17-episode-029-82f3800f12d9c889514b.js",
+      "path---episodes-2018-01-17-episode-029-82f3800f12d9c889514b.js.map"
+    ],
+    "path---episodes-2017-08-29-episode-010": [
+      "path---episodes-2017-08-29-episode-010-c8167ce87e1825d4d4ad.js",
+      "path---episodes-2017-08-29-episode-010-c8167ce87e1825d4d4ad.js.map"
+    ],
+    "path---episodes-2017-08-23-episode-009": [
+      "path---episodes-2017-08-23-episode-009-6b876bb8e4b87a80f9ec.js",
+      "path---episodes-2017-08-23-episode-009-6b876bb8e4b87a80f9ec.js.map"
     ]
   }
 }
