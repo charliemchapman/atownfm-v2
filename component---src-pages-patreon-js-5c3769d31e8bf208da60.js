@@ -1,0 +1,2 @@
+webpackJsonp([0x5b23b8fdc83f],{204:function(e,t,u){"use strict";function n(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var l=u(3),a=n(l);t.default=function(){return a.default.createElement("div",null,a.default.createElement("h1",null,"Patreon"))},e.exports=t.default}});
+//# sourceMappingURL=component---src-pages-patreon-js-5c3769d31e8bf208da60.js.map

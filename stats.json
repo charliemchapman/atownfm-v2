@@ -12,6 +12,10 @@
       "path---episodes-2017-07-12-episode-001-1ce2b8f3fb785036a9b8.js",
       "path---episodes-2017-07-12-episode-001-1ce2b8f3fb785036a9b8.js.map"
     ],
+    "component---src-pages-shows-js": [
+      "component---src-pages-shows-js-fc67ae26cf5f77cc02f9.js",
+      "component---src-pages-shows-js-fc67ae26cf5f77cc02f9.js.map"
+    ],
     "path---episodes-2017-09-14-episode-012": [
       "path---episodes-2017-09-14-episode-012-0637de3e1b6c11e5dd9f.js",
       "path---episodes-2017-09-14-episode-012-0637de3e1b6c11e5dd9f.js.map"
@@ -44,9 +48,17 @@
       "path---episodes-2017-12-11-episode-025-9cb5d82b7d389995a28a.js",
       "path---episodes-2017-12-11-episode-025-9cb5d82b7d389995a28a.js.map"
     ],
+    "path---shows": [
+      "path---shows-a0e39f21c11f6a62c5ab.js",
+      "path---shows-a0e39f21c11f6a62c5ab.js.map"
+    ],
     "path---episodes-2017-10-17-episode-017": [
       "path---episodes-2017-10-17-episode-017-3d69b37104daab620cf8.js",
       "path---episodes-2017-10-17-episode-017-3d69b37104daab620cf8.js.map"
+    ],
+    "path---patreon": [
+      "path---patreon-a0e39f21c11f6a62c5ab.js",
+      "path---patreon-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---episodes-2017-12-06-episode-024": [
       "path---episodes-2017-12-06-episode-024-dc41c9bd34d1c61a2b99.js",
@@ -59,6 +71,10 @@
     "path---episodes-2018-05-17-episode-045": [
       "path---episodes-2018-05-17-episode-045-ae55b5c5d5b6c983185f.js",
       "path---episodes-2018-05-17-episode-045-ae55b5c5d5b6c983185f.js.map"
+    ],
+    "component---src-pages-patreon-js": [
+      "component---src-pages-patreon-js-5c3769d31e8bf208da60.js",
+      "component---src-pages-patreon-js-5c3769d31e8bf208da60.js.map"
     ],
     "path---episodes-2017-10-31-episode-019": [
       "path---episodes-2017-10-31-episode-019-d8d38402f583ab1a7036.js",
@@ -81,8 +97,8 @@
       "path---episodes-2017-12-25-episode-027-d36e9a0ab25074a18988.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-5c22bad0a6c229f7aec6.js",
-      "component---src-layouts-index-js-5c22bad0a6c229f7aec6.js.map"
+      "component---src-layouts-index-js-882fc5cedcd4d1ed71e7.js",
+      "component---src-layouts-index-js-882fc5cedcd4d1ed71e7.js.map"
     ],
     "path---episodes-2017-08-08-episode-007": [
       "path---episodes-2017-08-08-episode-007-f9d4bd296cb9445dfd4a.js",
@@ -191,9 +207,9 @@
       "path---episodes-2017-11-05-episode-020-9b61194474bc7464e8dd.js.map"
     ],
     "app": [
-      "app-84af5e02522ab61bb8e8.js",
+      "app-1a67f04df3ac01f36d31.js",
       "build-js-styles.css",
-      "app-84af5e02522ab61bb8e8.js.map",
+      "app-1a67f04df3ac01f36d31.js.map",
       "build-js-styles.css.map"
     ],
     "path---episodes-2017-10-24-episode-018": [
@@ -216,6 +232,10 @@
       "path---episodes-2017-07-24-episode-004-3939b4805daa7323dd68.js",
       "path---episodes-2017-07-24-episode-004-3939b4805daa7323dd68.js.map"
     ],
+    "component---src-pages-about-js": [
+      "component---src-pages-about-js-761976bda4fc1159e26f.js",
+      "component---src-pages-about-js-761976bda4fc1159e26f.js.map"
+    ],
     "path---episodes-2018-01-17-episode-029": [
       "path---episodes-2018-01-17-episode-029-82f3800f12d9c889514b.js",
       "path---episodes-2018-01-17-episode-029-82f3800f12d9c889514b.js.map"
@@ -223,6 +243,10 @@
     "path---episodes-2017-08-29-episode-010": [
       "path---episodes-2017-08-29-episode-010-c8167ce87e1825d4d4ad.js",
       "path---episodes-2017-08-29-episode-010-c8167ce87e1825d4d4ad.js.map"
+    ],
+    "path---about": [
+      "path---about-a0e39f21c11f6a62c5ab.js",
+      "path---about-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---episodes-2017-08-23-episode-009": [
       "path---episodes-2017-08-23-episode-009-6b876bb8e4b87a80f9ec.js",
