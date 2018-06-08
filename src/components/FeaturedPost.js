@@ -12,7 +12,7 @@ export default ({episode}) => { console.log("la", episode); return (
         </h1>
         <div className={styles.date}>{episode.frontmatter.date}</div>
         <div className={styles.player}>
-            <img className={styles.image} src="http://atownmovies.com/assets/at-movies_002_deadpool.jpg"/>
+            <img className={styles.image} src={episode.frontmatter.imageUrl}/>
             <audio className={styles.audio} src="http://dts.podtrac.com/redirect.mp3/media.blubrry.com/atownmovies/podcast.atownmovies.com/audio/at-movies_002_deadpool.mp3" preload="none" controls/>
         </div>
         <p>{episode.excerpt}</p>
