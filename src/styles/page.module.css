@@ -11,3 +11,12 @@
     border-bottom: none;
     color: #607D37;
 }
+
+.patreonButton {
+    display: inline-block;
+    color: rgb(255, 255, 255);
+    background-color: rgb(249, 104, 84);
+    padding: 7px 15px;
+    margin-bottom: 10px;
+    font-size: .9em;
+}

@@ -1,5 +1,5 @@
 import React from "react";
-import styles from "../styles/blog-post.module.css"
+import styles from "../styles/page.module.css";
 
 export default ({ data }) => {
   const post = data.markdownRemark;
