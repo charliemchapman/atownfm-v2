@@ -4,7 +4,7 @@ import styles from "../styles/post-summary.module.css";
 
 export default ({data}) => {
 
-    const episodes = data.allRssFeedItem.edges.slice(1, data.allRssFeedItem.edges.length-1);
+    const episodes = data.allRssFeedItem.edges.slice(1, data.allRssFeedItem.edges.length);
     const episodesJsx = episodes.map(episode=>{
         return <PostSummary episode={episode.node} />
     });
