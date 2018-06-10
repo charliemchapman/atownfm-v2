@@ -1,0 +1,26 @@
+@import './_colors.scss';
+
+.post {
+    border-bottom: 1px solid #DDD;
+    padding-bottom: 20px;
+    margin-bottom: 40px;
+    display: flex;
+}
+
+.post h3 {
+    margin-top: 0;
+}
+
+.title {
+    color: $primary2;
+}
+
+.image {
+    width: 100px;
+    margin-right: 20px;
+    flex-shrink: 0;
+}
+
+.image img{
+    width: 100%;
+}

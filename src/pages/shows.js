@@ -1,11 +1,10 @@
 import React from "react";
 import styles from "../styles/page.module.scss";
-import postStyles from "../styles/post-summary.module.scss";
+import postStyles from "../styles/shows.module.scss";
 
 export default () => (
     <div className={styles.container}>
         <h1>Shows</h1>
-        <div className={postStyles.content}>
             <div className={postStyles.post}>
                 <div className={postStyles.image}>
                     <img src="http://atownmovies.com/assets/at-movies_logo_circle_dark.jpg" alt="episode thumbnail"/>
@@ -32,6 +31,5 @@ export default () => (
                     <p>Podcast where 2 Midwesterners discuss everything from movies, marketing, culture and a surprising amount on water towers.</p>
                 </div>
             </div>
-        </div>
     </div>
 )
