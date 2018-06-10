@@ -20,3 +20,23 @@
     margin-bottom: 10px;
     font-size: .9em;
 }
+
+.player {
+    background-color: #FFF;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.image {
+    height: 90px;
+    width: 90px;
+    margin: 0;
+    padding: 0;
+}
+
+.audio {
+    flex-grow: 1;
+    margin: 0 10px;
+}
