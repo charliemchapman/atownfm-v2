@@ -1,5 +1,5 @@
 import React from "react";
-import styles from "../styles/page.module.css";
+import styles from "../styles/page.module.scss";
 import PatreonLogo from "../images/patreon-logo.svg";
 
 export default () => (

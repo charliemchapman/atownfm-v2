@@ -1,8 +1,8 @@
 import React from "react";
 import Link from "gatsby-link";
-import styles from "../styles/featured-post.module.css"
+import styles from "../styles/featured-post.module.scss"
 
-export default ({episode}) => { console.log("la", episode); return (
+export default ({episode}) => { return (
   <div className={styles.container}>
     <div className={styles.content}>
         <h1>

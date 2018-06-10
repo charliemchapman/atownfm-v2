@@ -1,5 +1,5 @@
 import React from "react";
-import styles from "../styles/page.module.css";
+import styles from "../styles/page.module.scss";
 
 export default ({ data }) => {
   const episode = data.rssFeedItem;
@@ -10,7 +10,7 @@ export default ({ data }) => {
         <img className={styles.image} src={episode.itunes.image}/>
         <audio className={styles.audio} src={episode.enclosure.url} preload="none" controls/>
       </div>
-      <div dangerouslySetInnerHTML={{ __html: episode.content }} />
+      <div className={styles.description} dangerouslySetInnerHTML={{ __html: episode.content }} />
     </div>
   );
 };

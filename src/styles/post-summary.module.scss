@@ -1,3 +1,5 @@
+@import './_colors.scss';
+
 .content {
     margin-left: auto;
     margin-right: auto;
@@ -15,7 +17,7 @@
 }
 
 .title {
-    color: #607D37;
+    color: $primary2;
 }
 
 .image {

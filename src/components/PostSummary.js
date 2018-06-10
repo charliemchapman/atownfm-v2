@@ -1,6 +1,6 @@
 import React from "react";
 import Link from "gatsby-link";
-import styles from "../styles/post-summary.module.css";
+import styles from "../styles/post-summary.module.scss";
 
 export default ({episode}) => {
   return (

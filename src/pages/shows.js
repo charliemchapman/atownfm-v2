@@ -1,6 +1,6 @@
 import React from "react";
-import styles from "../styles/page.module.css";
-import postStyles from "../styles/post-summary.module.css";
+import styles from "../styles/page.module.scss";
+import postStyles from "../styles/post-summary.module.scss";
 
 export default () => (
     <div className={styles.container}>

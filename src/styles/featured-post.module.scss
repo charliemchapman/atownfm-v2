@@ -1,8 +1,10 @@
+@import './_colors.scss';
+
 .container {
     padding-top: 40px;
     padding-bottom: 30px;
-    background-color: #90AD56;
-    color: #FDFDFD;
+    background-color: $primary3;
+    color: $white;
 }
 
 .content {
@@ -19,7 +21,7 @@
 }
 
 .title {
-    color: #FDFDFD;
+    color: $white;
 }
 
 .player {
@@ -44,13 +46,13 @@
 }
 
 .shownotes {
-    color: #375A28;
+    color: $primary1;
     margin-top: 10px;
     text-decoration: underline;
 }
 
 .date {
-    color: #375A28;
+    color: $primary1;
     font-size: .80em;
     margin-bottom: 7px;
 }

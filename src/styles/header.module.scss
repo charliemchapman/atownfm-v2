@@ -1,7 +1,9 @@
+@import './_colors.scss';
+
 .header {
     height: 100px;
     width: 100%;
-    background-color: #607D37;
+    background-color: $primary2;
     display: flex;
 }
 

@@ -4,6 +4,7 @@ module.exports = {
         title: `A-Town FM`,
     },
     plugins: [
+        `gatsby-plugin-sass`,
         {
             resolve: 'gatsby-source-rss-fork',
             options: {

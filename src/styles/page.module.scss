@@ -1,3 +1,5 @@
+@import './_colors.scss';
+
 .container {
     margin-left: auto;
     margin-right: auto;
@@ -9,7 +11,11 @@
 
 .container h1, .container h2, .container h3, .container h4 {
     border-bottom: none;
-    color: #607D37;
+    color: $primary1;
+}
+
+.description a{
+    color: $secondary2;
 }
 
 .patreonButton {

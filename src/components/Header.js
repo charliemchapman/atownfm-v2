@@ -1,6 +1,6 @@
 import React from "react";
 import Link from "gatsby-link";
-import styles from "../styles/header.module.css";
+import styles from "../styles/header.module.scss";
 import hamburger from "../images/hamburger.png";
 
 function getLinks(closeMenu) {
