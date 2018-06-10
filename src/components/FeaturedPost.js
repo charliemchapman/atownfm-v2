@@ -7,15 +7,15 @@ export default ({episode}) => { console.log("la", episode); return (
     <div className={styles.content}>
         <h1>
           <Link to={episode.fields.slug} className={styles.title}>
-            #{episode.frontmatter.number} - {episode.frontmatter.title}
+            {episode.title}
           </Link>
         </h1>
-        <div className={styles.date}>{episode.frontmatter.date}</div>
+        <div className={styles.date}>{episode.pubDate}</div>
         <div className={styles.player}>
-            <img className={styles.image} src={episode.frontmatter.imageUrl}/>
-            <audio className={styles.audio} src="http://dts.podtrac.com/redirect.mp3/media.blubrry.com/atownmovies/podcast.atownmovies.com/audio/at-movies_002_deadpool.mp3" preload="none" controls/>
+            <img className={styles.image} src={episode.itunes.image}/>
+            <audio className={styles.audio} src={episode.enclosure.url} preload="none" controls/>
         </div>
-        <p>{episode.excerpt}</p>
+        <p>{episode.itunes.subtitle}</p>
         <Link to={episode.fields.slug} className={styles.shownotes}>Show Notes</Link>
     </div>  
   </div>

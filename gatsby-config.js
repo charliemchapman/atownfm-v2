@@ -5,6 +5,12 @@ module.exports = {
     },
     plugins: [
         {
+            resolve: 'gatsby-source-rss-fork',
+            options: {
+                    rssURL: 'http://podcast.atownfm.com/'
+            }
+        },
+        {
             resolve: `gatsby-source-filesystem`,
             options: {
                 name: `src`,

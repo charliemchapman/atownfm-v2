@@ -2,12 +2,12 @@ import React from "react"
 import FeaturedPost from '../components/FeaturedPost';
 import PostSummaryList from '../components/PostSummaryList';
 
-export default ({data}) => (
+export default ({data}) => { console.log("data: ", data); return (
     <div>
-        <FeaturedPost episode={data.allMarkdownRemark.edges[0].node}/>
+        <FeaturedPost episode={data.allRssFeedItem.edges[0].node}/>
         <PostSummaryList data={data}/>
     </div>
-)
+)}
 
 export const query = graphql`
     query FeaturedPostQuery {
@@ -26,6 +26,30 @@ export const query = graphql`
                 }
                 excerpt(pruneLength: 80)
                 html
+                fields {
+                  slug
+                }
+              }
+            }
+          }
+          allRssFeedItem {
+            edges {
+              node {
+                id
+                pubDate
+                title
+                enclosure {
+                  url
+                  length
+                  type
+                }
+                content
+                itunes {
+                  subtitle
+                  explicit
+                  duration
+                  image
+                }
                 fields {
                   slug
                 }

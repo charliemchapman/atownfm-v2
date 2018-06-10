@@ -6,15 +6,15 @@ export default ({episode}) => {
   return (
     <div className={styles.post}>
         <div className={styles.image}>
-            <img src={episode.frontmatter.imageUrl} alt="episode thumbnail"/>
+            <img src={episode.itunes.image} alt="episode thumbnail"/>
         </div>
         <div>
             <h3>
                 <Link to={episode.fields.slug} className={styles.title}>
-                    #{episode.frontmatter.number} - {episode.frontmatter.title}
+                    {episode.title}
                 </Link>
             </h3>
-            <p>{episode.excerpt}</p>
+            <p>{episode.itunes.subtitle}</p>
         </div>
     </div>
 )};

@@ -13,6 +13,7 @@
     "gatsby-link": "^1.6.40",
     "gatsby-plugin-typography": "^1.7.18",
     "gatsby-source-filesystem": "^1.5.38",
+    "gatsby-source-rss-fork": "^1.0.2",
     "gatsby-transformer-remark": "^1.7.41",
     "typography-theme-elk-glen": "^0.16.9",
     "typography-theme-github": "^0.15.10"
