@@ -54,6 +54,7 @@
 .menu {
     height: 100px;
     width: 70px;
+    flex-shrink: 0;
     display: flex;
     align-items: center;
     cursor: pointer;
@@ -74,11 +75,12 @@
     width: 100vw;
     z-index: 100;
     padding: 70px 0 0 50px;
+    overflow-y: scroll;
 }
 
 .menuPopup a {
     color: #FDFDFD;
-    font-size: 4em;
+    font-size: 3.8em;
 }
 
 .menuPopup div {
