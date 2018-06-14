@@ -1,9 +1,11 @@
 import React from "react";
+import SEO from "../components/SEO";
 import styles from "../styles/page.module.scss";
 import postStyles from "../styles/shows.module.scss";
 
 export default () => (
     <div className={styles.container}>
+        <SEO title="Shows | A-Town FM" />
         <h1>Shows</h1>
             <div className={postStyles.post}>
                 <div className={postStyles.image}>

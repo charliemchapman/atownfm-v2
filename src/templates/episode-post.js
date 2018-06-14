@@ -1,10 +1,15 @@
 import React from "react";
+import SEO from '../components/SEO';
 import styles from "../styles/page.module.scss";
 
 export default ({ data }) => {
   const episode = data.rssFeedItem;
   return (
     <div className={styles.container}>
+      <SEO
+        title={episode.title}
+        image={episode.itunes.image}
+      />
       <h1>{episode.title}</h1>
       <div className={styles.date}>{new Date(episode.pubDate).toLocaleDateString()}</div>
       <div className={styles.player}>

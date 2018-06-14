@@ -1,8 +1,10 @@
 import React from "react"
+import SEO from "../components/SEO";
 import styles from "../styles/page.module.scss";
 
 export default () => (
     <div className={styles.container}>
+        <SEO title="Subscribe | A-Town FM" />
         <h1>Subscribe</h1>
         <p>A-Town FM is available wherever you listen to podcasts.  Just search "A-Town FM" and look for the green tower!</p>
         <p>You can also subscribe directly below:</p>

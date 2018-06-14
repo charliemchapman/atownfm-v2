@@ -1,9 +1,10 @@
 import React from "react";
+import SEO from "../components/SEO";
 import styles from "../styles/page.module.scss";
-import PatreonLogo from "../images/patreon-logo.svg";
 
 export default () => (
     <div className={styles.container}>
+        <SEO title="Patreon | A-Town FM" />
         <h1>Patreon</h1>
         <a className={styles.patreonButton} href="https://www.patreon.com/bePatron?u=7182685&redirect_uri=http%3A%2F%2Fatownfm.com%2Fpatreon&utm_medium=widget">
             BECOME A PATRON
