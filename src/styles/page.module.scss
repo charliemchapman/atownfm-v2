@@ -14,6 +14,10 @@
     color: $primary1;
 }
 
+.container h1 {
+    margin-bottom: 0;
+}
+
 .description a{
     color: $secondary2;
 }
@@ -45,4 +49,9 @@
 .audio {
     flex-grow: 1;
     margin: 0 10px;
+}
+
+.date {
+    font-size: .80em;
+    margin-bottom: 7px;
 }

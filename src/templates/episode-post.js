@@ -6,6 +6,7 @@ export default ({ data }) => {
   return (
     <div className={styles.container}>
       <h1>{episode.title}</h1>
+      <div className={styles.date}>{new Date(episode.pubDate).toLocaleDateString()}</div>
       <div className={styles.player}>
         <img className={styles.image} src={episode.itunes.image}/>
         <audio className={styles.audio} src={episode.enclosure.url} preload="none" controls/>

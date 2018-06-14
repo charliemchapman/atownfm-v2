@@ -2,7 +2,8 @@ import React from "react";
 import Link from "gatsby-link";
 import styles from "../styles/featured-post.module.scss"
 
-export default ({episode}) => { return (
+export default ({episode}) => { 
+  return (
   <div className={styles.container}>
     <div className={styles.content}>
         <h1>
@@ -10,7 +11,7 @@ export default ({episode}) => { return (
             {episode.title}
           </Link>
         </h1>
-        <div className={styles.date}>{episode.pubDate}</div>
+        <div className={styles.date}>{new Date(episode.pubDate).toLocaleDateString()}</div>
         <div className={styles.player}>
             <img className={styles.image} src={episode.itunes.image}/>
             <audio className={styles.audio} src={episode.enclosure.url} preload="none" controls/>
