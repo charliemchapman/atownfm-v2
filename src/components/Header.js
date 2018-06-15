@@ -52,7 +52,7 @@ export default class Header extends React.Component {
           </Link>
         </div>
         <div className={styles.links}>
-          { getLinks(closeMenu).reverse() }
+          { getLinks(closeMenu) }
         </div>
           <div className={styles.menu} onClick={toggleMenu}>
             <img src={hamburger} alt="Menu" />
