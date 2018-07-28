@@ -9,7 +9,7 @@ module.exports = {
         {
             resolve: 'gatsby-source-rss-fork',
             options: {
-                    rssURL: 'http://podcast.atownfm.com/'
+                    rssURL: 'https://pod.atownfm.com/feed.xml'
             }
         },
         {
