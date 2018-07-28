@@ -16,11 +16,11 @@ export default () => (
             <tr><th>Patron</th><th>Patron Corner Episode</th></tr>
             <tr>
                 <td>Nicholas Lewis</td>
-                <td><a href="http://atownfm.com/episodes/2018/03/27/episode-039.html">#39 - Nick's Corner</a></td>
+                <td><a href="/episodes/39:_Nick’s_Corner/">#39 - Nick's Corner</a></td>
             </tr>
             <tr>
                 <td>Chad S</td>
-                <td><a href="http://atownfm.com/episodes/2018/04/17/episode-041.html">#41 - Tolkien Corner, British Royalty, Chad's Corner</a></td>
+                <td><a href="/episodes/41:_Tolkien_Corner,_British_Royalty,_Chad’s_Corner/">#41 - Tolkien Corner, British Royalty, Chad's Corner</a></td>
             </tr>
             <tr>
                 <td>Dani W</td>
