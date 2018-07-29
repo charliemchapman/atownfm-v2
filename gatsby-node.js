@@ -1,6 +1,20 @@
 const path = require(`path`);
 const { createFilePath } = require(`gatsby-source-filesystem`);
 
+function cleanUrl(url){
+  //TODO: Make this more robust.  
+  //      Seems to be problems for any special characters like ñ
+  var cleanedUrl = url;
+  var charactersToRemove = [
+    "’", /\s/g, ".", "(", ")", "ñ"
+  ]
+  charactersToRemove.forEach(characterToRemove=>{
+    cleanedUrl = cleanedUrl.replace(characterToRemove, "_")
+  })
+
+  return cleanedUrl;
+}
+
 exports.onCreateNode = ({ node, getNode, boundActionCreators }) => {
     const { createNodeField } = boundActionCreators
     if (node.internal.type === `MarkdownRemark`) {
@@ -14,7 +28,8 @@ exports.onCreateNode = ({ node, getNode, boundActionCreators }) => {
     }
 
     if (node.internal.type === "rssFeedItem"){
-      const title = encodeURI(node.title.replace(/\s/g, '_'));
+      const cleanedTitle = cleanUrl(node.title);
+      const title = encodeURI(cleanedTitle);
       const slug = `/episodes/${title}/`;
       console.log('SLUG: ', slug);
       createNodeField({
