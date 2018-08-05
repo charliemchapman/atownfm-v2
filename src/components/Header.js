@@ -2,6 +2,7 @@ import React from "react";
 import Link from "gatsby-link";
 import styles from "../styles/header.module.scss";
 import hamburger from "../images/hamburger.png";
+import atownLogo from "../images/a-town_logo_dark.jpg";
 
 function getLinks(closeMenu) {
   return (
@@ -48,7 +49,7 @@ export default class Header extends React.Component {
       <div className={styles.header}>
         <div className={styles.image}>
           <Link to="/">
-            <img src="http://atownfm.com/assets/a-town_logo_09.jpg" alt="A-Town FM"/>
+            <img src={atownLogo} alt="A-Town FM"/>
           </Link>
         </div>
         <div className={styles.links}>

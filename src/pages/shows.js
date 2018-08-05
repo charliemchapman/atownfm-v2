@@ -2,6 +2,8 @@ import React from "react";
 import SEO from "../components/SEO";
 import styles from "../styles/page.module.scss";
 import postStyles from "../styles/shows.module.scss";
+import atownLogo from "../images/a-town_logo_dark.jpg";
+import atownMoviesLogo from "../images/at-movies_logo_circle_dark.jpg";
 
 export default () => (
     <div className={styles.container}>
@@ -9,7 +11,7 @@ export default () => (
         <h1>Shows</h1>
             <div className={postStyles.post}>
                 <div className={postStyles.image}>
-                    <img src="http://atownmovies.com/assets/at-movies_logo_circle_dark.jpg" alt="episode thumbnail"/>
+                    <img src={atownMoviesLogo} alt="episode thumbnail"/>
                 </div>
                 <div>
                     <h3>
@@ -22,7 +24,7 @@ export default () => (
             </div>
             <div className={postStyles.post}>
                 <div className={postStyles.image}>
-                    <img src="http://atownfm.com/assets/a-town_logo_09.jpg" alt="episode thumbnail"/>
+                    <img src={atownLogo} alt="episode thumbnail"/>
                 </div>
                 <div>
                     <h3>

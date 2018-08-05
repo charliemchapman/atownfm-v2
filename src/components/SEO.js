@@ -4,7 +4,7 @@ import Helmet from 'react-helmet';
 export default ({title, description, image}) => { 
     title = title || "A-Town FM";
     description = description || "Official website of the A-Town FM podcast.";
-    image = image || "http://atownfm.com/assets/a-town_logo_09.jpg";
+    image = image || "https://s3.us-east-2.amazonaws.com/pod.atownfm.com/images/a-town_logo_dark.jpg";
 
     return (
         <Helmet

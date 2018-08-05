@@ -1,5 +1,4 @@
 module.exports = {
-    pathPrefix: `/atownfm-v2`,
     siteMetadata: {
         title: `A-Town FM`,
     },
