@@ -37,8 +37,8 @@
       "path---episodes-41-tolkien-corner-british-royalty-chad-s-corner-47fb89f4a7de0f80dfed.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-0af0b6395c65016e75fa.js",
-      "component---src-pages-index-js-0af0b6395c65016e75fa.js.map"
+      "component---src-pages-index-js-290cd8949b6399121400.js",
+      "component---src-pages-index-js-290cd8949b6399121400.js.map"
     ],
     "path---episodes-27-star-wars-the-last-jedi": [
       "path---episodes-27-star-wars-the-last-jedi-c2c6f003e37ead6149de.js",
@@ -153,8 +153,8 @@
       "path---episodes-40-ready-player-one-9e7bac9a4b73c8fd98e1.js.map"
     ],
     "path---index": [
-      "path---index-1a3b969a2e725ae3768b.js",
-      "path---index-1a3b969a2e725ae3768b.js.map"
+      "path---index-bc880a034b5e89b0a539.js",
+      "path---index-bc880a034b5e89b0a539.js.map"
     ],
     "path---subscribe": [
       "path---subscribe-a0e39f21c11f6a62c5ab.js",
@@ -215,9 +215,9 @@
       "path---episodes-23-justice-league-9e2cd0d5b5ec7b144686.js.map"
     ],
     "app": [
-      "app-0b278c0b60c33dd2f70e.js",
+      "app-8846c6c0096e43797ca7.js",
       "build-js-styles.css",
-      "app-0b278c0b60c33dd2f70e.js.map",
+      "app-8846c6c0096e43797ca7.js.map",
       "build-js-styles.css.map"
     ],
     "path---episodes-31-offending-europe-part-2-tv-remakes-oscars-preshow": [
@@ -231,6 +231,10 @@
     "path---episodes-14-instagram-sucks-parking-ticket-protest-marketing-lab-podcast-envy-not-as-advertised": [
       "path---episodes-14-instagram-sucks-parking-ticket-protest-marketing-lab-podcast-envy-not-as-advertised-f061a9fd06165bb94ab3.js",
       "path---episodes-14-instagram-sucks-parking-ticket-protest-marketing-lab-podcast-envy-not-as-advertised-f061a9fd06165bb94ab3.js.map"
+    ],
+    "path---episodes-51-dani-corner": [
+      "path---episodes-51-dani-corner-5b0f2c1aab0c1fbb4576.js",
+      "path---episodes-51-dani-corner-5b0f2c1aab0c1fbb4576.js.map"
     ],
     "component---src-templates-episode-post-js": [
       "component---src-templates-episode-post-js-c211b4009b7d65684fa3.js",
