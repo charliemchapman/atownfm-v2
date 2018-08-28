@@ -8,9 +8,15 @@ export default () => (
         <h1>About</h1><p>
             From the land of Arnold, Missouri where the only skyscraper we need is a water tower, comes an entertainment podcast where two bold Midwesterners record a stream of consciousness touching on everything from movies, marketing, to technology. Be enlightened!
         </p>
-        <h1>Contact</h1>
+        <h3>Official Accounts</h3>
         <p>Facebook: <a href="https://www.facebook.com/atownfm/">https://www.facebook.com/atownfm/</a></p>
         <p>Twitter: <a href="https://twitter.com/atownfm">@atownfm</a></p>
         <p>Email: <a href="mailto:atownfm@gmail.com">atownfm@gmail.com</a></p>
+        <h3>Charlie</h3>
+        <p>Twitter: <a href="https://twitter.com/chuckyc17">@chuckyc17</a></p>
+        <p>Mastodon: <a href="https://mastodon.social/@charliemchapman">@charliemchapman@mastodon.social</a></p>
+        <h3>Dan</h3>
+        <p>Twitter: <a href="https://twitter.com/danlitz">@DanLitz</a></p>
+        <p>Mastodon: still hasn't signed up... 😒</p>
     </div>
 )
