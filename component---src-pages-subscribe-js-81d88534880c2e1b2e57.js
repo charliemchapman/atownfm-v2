@@ -1,2 +1,0 @@
-webpackJsonp([0xc3816a9f8780],{207:function(e,t,u){"use strict";function a(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var n=u(3),l=a(n),c=u(46),r=a(c);t.default=function(){return l.default.createElement("div",{className:r.default.container},l.default.createElement("h1",null,"Subscribe"))},e.exports=t.default}});
-//# sourceMappingURL=component---src-pages-subscribe-js-81d88534880c2e1b2e57.js.map
