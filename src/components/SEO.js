@@ -12,6 +12,7 @@ export default ({title, description, image}) => {
             meta={[
             { name: "description", content: description },
             { name: "keywords", content: "atownfm, podcast, Arnold, Missouri" },
+            { name: "apple-itunes-app", content: "app-id=1257353761" },
             { property: "og:type", content: "website" },
             { property: "og:title", content: title },
             { property: "og:description", content: description },
