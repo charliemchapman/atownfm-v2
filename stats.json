@@ -161,8 +161,8 @@
       "path---episodes-40-ready-player-one-9e7bac9a4b73c8fd98e1.js.map"
     ],
     "path---index": [
-      "path---index-6fd4987e7d6ce9d0b4f3.js",
-      "path---index-6fd4987e7d6ce9d0b4f3.js.map"
+      "path---index-66485cc233332e840566.js",
+      "path---index-66485cc233332e840566.js.map"
     ],
     "path---subscribe": [
       "path---subscribe-a0e39f21c11f6a62c5ab.js",
@@ -189,6 +189,10 @@
     "path---episodes-29-the-cursing-episode": [
       "path---episodes-29-the-cursing-episode-cb64c170a75a1faae9af.js",
       "path---episodes-29-the-cursing-episode-cb64c170a75a1faae9af.js.map"
+    ],
+    "path---episodes-54-the-crossover-event-everyone-s-been-waiting-for-with-dani-wright": [
+      "path---episodes-54-the-crossover-event-everyone-s-been-waiting-for-with-dani-wright-d368dee7b33f2fdf4d3b.js",
+      "path---episodes-54-the-crossover-event-everyone-s-been-waiting-for-with-dani-wright-d368dee7b33f2fdf4d3b.js.map"
     ],
     "path---episodes-8-solar-eclipse-talk-with-meteorologist-kevin-c-burns": [
       "path---episodes-8-solar-eclipse-talk-with-meteorologist-kevin-c-burns-530cf31d30b185d8b872.js",
@@ -223,9 +227,9 @@
       "path---episodes-23-justice-league-9e2cd0d5b5ec7b144686.js.map"
     ],
     "app": [
-      "app-cfcbb8885738d2d16c47.js",
+      "app-c29a2c9df417f0ca260b.js",
       "build-js-styles.css",
-      "app-cfcbb8885738d2d16c47.js.map",
+      "app-c29a2c9df417f0ca260b.js.map",
       "build-js-styles.css.map"
     ],
     "path---episodes-31-offending-europe-part-2-tv-remakes-oscars-preshow": [
