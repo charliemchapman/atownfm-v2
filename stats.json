@@ -13,8 +13,8 @@
       "path---episodes-52-coffee-cola-and-new-social-media-ee24c95cb06c5fba5eba.js.map"
     ],
     "path---episodes-55-for-all-you-facebook-lovers-out-there": [
-      "path---episodes-55-for-all-you-facebook-lovers-out-there-0587c987bdf2b987e9b9.js",
-      "path---episodes-55-for-all-you-facebook-lovers-out-there-0587c987bdf2b987e9b9.js.map"
+      "path---episodes-55-for-all-you-facebook-lovers-out-there-33aedeb41f260a092d53.js",
+      "path---episodes-55-for-all-you-facebook-lovers-out-there-33aedeb41f260a092d53.js.map"
     ],
     "path---episodes-19-the-halloween-spooktacular": [
       "path---episodes-19-the-halloween-spooktacular-2a924cf0fea7c51f61bf.js",
@@ -165,8 +165,8 @@
       "path---episodes-40-ready-player-one-9e7bac9a4b73c8fd98e1.js.map"
     ],
     "path---index": [
-      "path---index-a59880265d9d38b77255.js",
-      "path---index-a59880265d9d38b77255.js.map"
+      "path---index-7911c2d2275319e6ea7f.js",
+      "path---index-7911c2d2275319e6ea7f.js.map"
     ],
     "path---subscribe": [
       "path---subscribe-a0e39f21c11f6a62c5ab.js",
@@ -231,9 +231,9 @@
       "path---episodes-23-justice-league-9e2cd0d5b5ec7b144686.js.map"
     ],
     "app": [
-      "app-6e17d39d34f69fa94b5f.js",
+      "app-0d0c86004fd69acda11b.js",
       "build-js-styles.css",
-      "app-6e17d39d34f69fa94b5f.js.map",
+      "app-0d0c86004fd69acda11b.js.map",
       "build-js-styles.css.map"
     ],
     "path---episodes-31-offending-europe-part-2-tv-remakes-oscars-preshow": [
@@ -255,6 +255,10 @@
     "component---src-templates-episode-post-js": [
       "component---src-templates-episode-post-js-c211b4009b7d65684fa3.js",
       "component---src-templates-episode-post-js-c211b4009b7d65684fa3.js.map"
+    ],
+    "path---episodes-56-hatching-twitter": [
+      "path---episodes-56-hatching-twitter-afae772f3154774c1455.js",
+      "path---episodes-56-hatching-twitter-afae772f3154774c1455.js.map"
     ],
     "path---episodes-33-02-13-18-bonus-episode-cloverfield-paradox": [
       "path---episodes-33-02-13-18-bonus-episode-cloverfield-paradox-e3db43dfdff049d4ad7f.js",
