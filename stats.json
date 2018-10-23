@@ -165,8 +165,8 @@
       "path---episodes-40-ready-player-one-9e7bac9a4b73c8fd98e1.js.map"
     ],
     "path---index": [
-      "path---index-7911c2d2275319e6ea7f.js",
-      "path---index-7911c2d2275319e6ea7f.js.map"
+      "path---index-b1eeebce46643fbef7fd.js",
+      "path---index-b1eeebce46643fbef7fd.js.map"
     ],
     "path---subscribe": [
       "path---subscribe-a0e39f21c11f6a62c5ab.js",
@@ -218,6 +218,10 @@
       "path---episodes-11-water-tower-twitter-marketing-dark-knight-debacle-social-media-c920f86517bb0b3c0dc2.js",
       "path---episodes-11-water-tower-twitter-marketing-dark-knight-debacle-social-media-c920f86517bb0b3c0dc2.js.map"
     ],
+    "path---episodes-57-im-good-with-blaming-the-british": [
+      "path---episodes-57-im-good-with-blaming-the-british-dfd56bc63dd6c7dd2c33.js",
+      "path---episodes-57-im-good-with-blaming-the-british-dfd56bc63dd6c7dd2c33.js.map"
+    ],
     "component---src-pages-subscribe-js": [
       "component---src-pages-subscribe-js-93a32ff5bda53f77d931.js",
       "component---src-pages-subscribe-js-93a32ff5bda53f77d931.js.map"
@@ -231,9 +235,9 @@
       "path---episodes-23-justice-league-9e2cd0d5b5ec7b144686.js.map"
     ],
     "app": [
-      "app-0d0c86004fd69acda11b.js",
+      "app-d9c3568a98345b493024.js",
       "build-js-styles.css",
-      "app-0d0c86004fd69acda11b.js.map",
+      "app-d9c3568a98345b493024.js.map",
       "build-js-styles.css.map"
     ],
     "path---episodes-31-offending-europe-part-2-tv-remakes-oscars-preshow": [
