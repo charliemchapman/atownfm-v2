@@ -165,8 +165,8 @@
       "path---episodes-40-ready-player-one-9e7bac9a4b73c8fd98e1.js.map"
     ],
     "path---index": [
-      "path---index-b1eeebce46643fbef7fd.js",
-      "path---index-b1eeebce46643fbef7fd.js.map"
+      "path---index-a11334ad45abf8277e03.js",
+      "path---index-a11334ad45abf8277e03.js.map"
     ],
     "path---subscribe": [
       "path---subscribe-a0e39f21c11f6a62c5ab.js",
@@ -222,6 +222,10 @@
       "path---episodes-57-im-good-with-blaming-the-british-dfd56bc63dd6c7dd2c33.js",
       "path---episodes-57-im-good-with-blaming-the-british-dfd56bc63dd6c7dd2c33.js.map"
     ],
+    "path---episodes-58-treasure-the-dream-whatever-the-terror": [
+      "path---episodes-58-treasure-the-dream-whatever-the-terror-9dad4c4094e7e1ba29ca.js",
+      "path---episodes-58-treasure-the-dream-whatever-the-terror-9dad4c4094e7e1ba29ca.js.map"
+    ],
     "component---src-pages-subscribe-js": [
       "component---src-pages-subscribe-js-93a32ff5bda53f77d931.js",
       "component---src-pages-subscribe-js-93a32ff5bda53f77d931.js.map"
@@ -235,9 +239,9 @@
       "path---episodes-23-justice-league-9e2cd0d5b5ec7b144686.js.map"
     ],
     "app": [
-      "app-d9c3568a98345b493024.js",
+      "app-33785a6ced0827d5ced9.js",
       "build-js-styles.css",
-      "app-d9c3568a98345b493024.js.map",
+      "app-33785a6ced0827d5ced9.js.map",
       "build-js-styles.css.map"
     ],
     "path---episodes-31-offending-europe-part-2-tv-remakes-oscars-preshow": [
