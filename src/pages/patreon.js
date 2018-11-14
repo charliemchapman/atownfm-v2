@@ -30,6 +30,10 @@ export default () => (
                 <td>Ben Maga</td>
                 <td><em>Coming Soon...</em></td>
             </tr>
+            <tr>
+                <td>Nick P.</td>
+                <td></td>
+            </tr>
         </table>
     </div>
 )
