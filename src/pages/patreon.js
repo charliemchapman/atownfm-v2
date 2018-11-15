@@ -24,7 +24,7 @@ export default () => (
             </tr>
             <tr>
                 <td>Dani W</td>
-                <td><a href="/episodes/51:_Dani_Corner/">#51 - Tolkien Corner, British Royalty, Chad's Corner</a></td>
+                <td><a href="/episodes/51:_Dani_Corner/">#51 - Dani Corner</a></td>
             </tr>
             <tr>
                 <td>Ben Maga</td>
