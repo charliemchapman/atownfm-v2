@@ -21,7 +21,10 @@ function getLinks(closeMenu) {
       </Link>),
       (<Link to="/shows" onClick={closeMenu} key={5}>
         <div className={styles.link}>Shows</div>
-      </Link>)
+      </Link>),
+      (<a href="https://teespring.com/atownfm" key={6}>
+        <div className={styles.link}>Store</div>
+      </a>)
     ]
   )
 }
