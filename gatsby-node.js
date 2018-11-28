@@ -6,10 +6,10 @@ function cleanUrl(url){
   //      Seems to be problems for any special characters like ñ
   var cleanedUrl = url;
   var charactersToRemove = [
-    "’", /\s/g, ".", "(", ")", "ñ"
+    "’", /\s/g, ".", "(", ")", "ñ", "?", "&"
   ]
   charactersToRemove.forEach(characterToRemove=>{
-    cleanedUrl = cleanedUrl.replace(characterToRemove, "_")
+    cleanedUrl = cleanedUrl.replace(":", "-").replace(characterToRemove, "")
   })
 
   return cleanedUrl;
