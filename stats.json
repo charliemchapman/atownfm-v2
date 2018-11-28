@@ -1,196 +1,204 @@
 {
   "assetsByChunkName": {
-    "path---episodes-a-town-at-the-movies-is-live": [
-      "path---episodes-a-town-at-the-movies-is-live-29c44b2c71d95fb1d479.js",
-      "path---episodes-a-town-at-the-movies-is-live-29c44b2c71d95fb1d479.js.map"
+    "path---episodes-54-the-crossover-event-everyones-been-waiting-for-with-dani-wright": [
+      "path---episodes-54-the-crossover-event-everyones-been-waiting-for-with-dani-wright-71bce6333344265bedf7.js",
+      "path---episodes-54-the-crossover-event-everyones-been-waiting-for-with-dani-wright-71bce6333344265bedf7.js.map"
     ],
     "path---episodes-45-google-duplex-movie-pass-tolkien-corner-dc-streaming": [
-      "path---episodes-45-google-duplex-movie-pass-tolkien-corner-dc-streaming-2717d4a700fc0436408a.js",
-      "path---episodes-45-google-duplex-movie-pass-tolkien-corner-dc-streaming-2717d4a700fc0436408a.js.map"
-    ],
-    "path---episodes-52-coffee-cola-and-new-social-media": [
-      "path---episodes-52-coffee-cola-and-new-social-media-ee24c95cb06c5fba5eba.js",
-      "path---episodes-52-coffee-cola-and-new-social-media-ee24c95cb06c5fba5eba.js.map"
+      "path---episodes-45-google-duplex-movie-pass-tolkien-corner-dc-streaming-9d761d8e6758a0f48305.js",
+      "path---episodes-45-google-duplex-movie-pass-tolkien-corner-dc-streaming-9d761d8e6758a0f48305.js.map"
     ],
     "path---episodes-55-for-all-you-facebook-lovers-out-there": [
-      "path---episodes-55-for-all-you-facebook-lovers-out-there-33aedeb41f260a092d53.js",
-      "path---episodes-55-for-all-you-facebook-lovers-out-there-33aedeb41f260a092d53.js.map"
+      "path---episodes-55-for-all-you-facebook-lovers-out-there-82cb5ad6551c36366357.js",
+      "path---episodes-55-for-all-you-facebook-lovers-out-there-82cb5ad6551c36366357.js.map"
+    ],
+    "path---episodes-48-the-big-e-318-episode": [
+      "path---episodes-48-the-big-e-318-episode-e97a7a35da689816a78b.js",
+      "path---episodes-48-the-big-e-318-episode-e97a7a35da689816a78b.js.map"
     ],
     "path---episodes-19-the-halloween-spooktacular": [
-      "path---episodes-19-the-halloween-spooktacular-2a924cf0fea7c51f61bf.js",
-      "path---episodes-19-the-halloween-spooktacular-2a924cf0fea7c51f61bf.js.map"
+      "path---episodes-19-the-halloween-spooktacular-0ef457596f48bc16f92f.js",
+      "path---episodes-19-the-halloween-spooktacular-0ef457596f48bc16f92f.js.map"
     ],
     "component---src-pages-shows-js": [
       "component---src-pages-shows-js-5df540803dc5a359582b.js",
       "component---src-pages-shows-js-5df540803dc5a359582b.js.map"
     ],
-    "path---episodes-7-let-s-talk-about-spoilers-international-fame-emoji-movie-disaster-valerian-and-the-confederate-show": [
-      "path---episodes-7-let-s-talk-about-spoilers-international-fame-emoji-movie-disaster-valerian-and-the-confederate-show-d4f99c5662c40f285c61.js",
-      "path---episodes-7-let-s-talk-about-spoilers-international-fame-emoji-movie-disaster-valerian-and-the-confederate-show-d4f99c5662c40f285c61.js.map"
-    ],
-    "path---episodes-12-stephen-king-s-it-childhood-trauma-horror-movie-talk": [
-      "path---episodes-12-stephen-king-s-it-childhood-trauma-horror-movie-talk-1d53ddb8d707c86a1d42.js",
-      "path---episodes-12-stephen-king-s-it-childhood-trauma-horror-movie-talk-1d53ddb8d707c86a1d42.js.map"
-    ],
-    "path---episodes-28-lists-all-the-way-down": [
-      "path---episodes-28-lists-all-the-way-down-af8906e0e05f863ab98f.js",
-      "path---episodes-28-lists-all-the-way-down-af8906e0e05f863ab98f.js.map"
-    ],
-    "path---episodes-39-nick-s-corner": [
-      "path---episodes-39-nick-s-corner-8a22f80162adc69a2f0a.js",
-      "path---episodes-39-nick-s-corner-8a22f80162adc69a2f0a.js.map"
-    ],
-    "path---episodes-41-tolkien-corner-british-royalty-chad-s-corner": [
-      "path---episodes-41-tolkien-corner-british-royalty-chad-s-corner-47fb89f4a7de0f80dfed.js",
-      "path---episodes-41-tolkien-corner-british-royalty-chad-s-corner-47fb89f4a7de0f80dfed.js.map"
+    "path---episodes-58-treasurethe-dream-whateverthe-terror": [
+      "path---episodes-58-treasurethe-dream-whateverthe-terror-f81c5f7126ea20a82948.js",
+      "path---episodes-58-treasurethe-dream-whateverthe-terror-f81c5f7126ea20a82948.js.map"
     ],
     "component---src-pages-index-js": [
       "component---src-pages-index-js-0af0b6395c65016e75fa.js",
       "component---src-pages-index-js-0af0b6395c65016e75fa.js.map"
     ],
+    "path---episodes-28-lists-allthe-way-down": [
+      "path---episodes-28-lists-allthe-way-down-b0c8194f982ff82f0cb1.js",
+      "path---episodes-28-lists-allthe-way-down-b0c8194f982ff82f0cb1.js.map"
+    ],
+    "path---episodes-59-harry-potterandthe-sorcerers-stone": [
+      "path---episodes-59-harry-potterandthe-sorcerers-stone-6af33d9af59c9d444d90.js",
+      "path---episodes-59-harry-potterandthe-sorcerers-stone-6af33d9af59c9d444d90.js.map"
+    ],
     "path---episodes-27-star-wars-the-last-jedi": [
-      "path---episodes-27-star-wars-the-last-jedi-c2c6f003e37ead6149de.js",
-      "path---episodes-27-star-wars-the-last-jedi-c2c6f003e37ead6149de.js.map"
+      "path---episodes-27-star-wars-the-last-jedi-94353ae35a3a4dcd163f.js",
+      "path---episodes-27-star-wars-the-last-jedi-94353ae35a3a4dcd163f.js.map"
     ],
-    "path---episodes-30-nintendo-labo-post-office-and-the-science-of-plot-holes": [
-      "path---episodes-30-nintendo-labo-post-office-and-the-science-of-plot-holes-74cb0ff05b0e9feb81f2.js",
-      "path---episodes-30-nintendo-labo-post-office-and-the-science-of-plot-holes-74cb0ff05b0e9feb81f2.js.map"
-    ],
-    "path---episodes-48-the-big-e-3-18-episode": [
-      "path---episodes-48-the-big-e-3-18-episode-d15f29aaccdf3d10bf8b.js",
-      "path---episodes-48-the-big-e-3-18-episode-d15f29aaccdf3d10bf8b.js.map"
+    "path---episodes-12-stephen-kings-it-childhood-trauma-horror-movie-talk": [
+      "path---episodes-12-stephen-kings-it-childhood-trauma-horror-movie-talk-618ab351821bb36c79f7.js",
+      "path---episodes-12-stephen-kings-it-childhood-trauma-horror-movie-talk-618ab351821bb36c79f7.js.map"
     ],
     "path---episodes-43-apple-apps-movie-pass-changes-venom-trailer": [
-      "path---episodes-43-apple-apps-movie-pass-changes-venom-trailer-2c6aade6f33175fead6f.js",
-      "path---episodes-43-apple-apps-movie-pass-changes-venom-trailer-2c6aade6f33175fead6f.js.map"
+      "path---episodes-43-apple-apps-movie-pass-changes-venom-trailer-b8931aa7b95c22430d0f.js",
+      "path---episodes-43-apple-apps-movie-pass-changes-venom-trailer-b8931aa7b95c22430d0f.js.map"
     ],
-    "path---episodes-24-batman-s-a-murderer-ea-ruins-battlefront-christmas-movie-criteria": [
-      "path---episodes-24-batman-s-a-murderer-ea-ruins-battlefront-christmas-movie-criteria-8df49fc427d54b9ec856.js",
-      "path---episodes-24-batman-s-a-murderer-ea-ruins-battlefront-christmas-movie-criteria-8df49fc427d54b9ec856.js.map"
+    "path---episodes-41-tolkien-corner-british-royalty-chads-corner": [
+      "path---episodes-41-tolkien-corner-british-royalty-chads-corner-0cd53c801b664f2d328c.js",
+      "path---episodes-41-tolkien-corner-british-royalty-chads-corner-0cd53c801b664f2d328c.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
-    "path---episodes-4-listener-feedback-jazz-music-and-dan-s-tech-gripe": [
-      "path---episodes-4-listener-feedback-jazz-music-and-dan-s-tech-gripe-1ebbb9e8e175eed3eceb.js",
-      "path---episodes-4-listener-feedback-jazz-music-and-dan-s-tech-gripe-1ebbb9e8e175eed3eceb.js.map"
-    ],
     "path---episodes-36-the-pre-oscar-showdown": [
-      "path---episodes-36-the-pre-oscar-showdown-19b98a2c10ae02bbd2ca.js",
-      "path---episodes-36-the-pre-oscar-showdown-19b98a2c10ae02bbd2ca.js.map"
+      "path---episodes-36-the-pre-oscar-showdown-5a79e6579b8e39bc25f6.js",
+      "path---episodes-36-the-pre-oscar-showdown-5a79e6579b8e39bc25f6.js.map"
     ],
     "path---episodes-50-anniversary-episode-english-dryers-follow-up-and-movie-pass-saga-continues": [
-      "path---episodes-50-anniversary-episode-english-dryers-follow-up-and-movie-pass-saga-continues-96bc1e9b678d20d321b7.js",
-      "path---episodes-50-anniversary-episode-english-dryers-follow-up-and-movie-pass-saga-continues-96bc1e9b678d20d321b7.js.map"
+      "path---episodes-50-anniversary-episode-english-dryers-follow-up-and-movie-pass-saga-continues-01eb241997dfeb970f50.js",
+      "path---episodes-50-anniversary-episode-english-dryers-follow-up-and-movie-pass-saga-continues-01eb241997dfeb970f50.js.map"
     ],
-    "path---episodes-37-se-or-putin": [
-      "path---episodes-37-se-or-putin-b3828d179180bbcec170.js",
-      "path---episodes-37-se-or-putin-b3828d179180bbcec170.js.map"
-    ],
-    "path---episodes-9-new-dog-movie-pass-cinema-sins-practical-vs-vfx": [
-      "path---episodes-9-new-dog-movie-pass-cinema-sins-practical-vs-vfx-b44dfdd6cc4e0fb5e81f.js",
-      "path---episodes-9-new-dog-movie-pass-cinema-sins-practical-vs-vfx-b44dfdd6cc4e0fb5e81f.js.map"
+    "path---episodes-8-solar-eclipse-talkwith-meteorologist-kevin-c-burns": [
+      "path---episodes-8-solar-eclipse-talkwith-meteorologist-kevin-c-burns-e084c7446ad0da60271e.js",
+      "path---episodes-8-solar-eclipse-talkwith-meteorologist-kevin-c-burns-e084c7446ad0da60271e.js.map"
     ],
     "path---shows": [
       "path---shows-a0e39f21c11f6a62c5ab.js",
       "path---shows-a0e39f21c11f6a62c5ab.js.map"
     ],
-    "path---episodes-53-making-salads-we-stand-on-the-shoulders-of-giants": [
-      "path---episodes-53-making-salads-we-stand-on-the-shoulders-of-giants-e6fb93b640ff238343b5.js",
-      "path---episodes-53-making-salads-we-stand-on-the-shoulders-of-giants-e6fb93b640ff238343b5.js.map"
-    ],
     "path---episodes-1-spider-man-posters-how-to-news-andy-serkis": [
-      "path---episodes-1-spider-man-posters-how-to-news-andy-serkis-e241f80ce0fdb46906bf.js",
-      "path---episodes-1-spider-man-posters-how-to-news-andy-serkis-e241f80ce0fdb46906bf.js.map"
+      "path---episodes-1-spider-man-posters-how-to-news-andy-serkis-395c72d80d4d611d6348.js",
+      "path---episodes-1-spider-man-posters-how-to-news-andy-serkis-395c72d80d4d611d6348.js.map"
+    ],
+    "path---episodes-10-retrospective-nicks-corner-eclipse-follow-up-shirts": [
+      "path---episodes-10-retrospective-nicks-corner-eclipse-follow-up-shirts-714ed4b07d6499d7d74b.js",
+      "path---episodes-10-retrospective-nicks-corner-eclipse-follow-up-shirts-714ed4b07d6499d7d74b.js.map"
     ],
     "path---episodes-47-santa-cook": [
-      "path---episodes-47-santa-cook-89a0e840667a65ecb831.js",
-      "path---episodes-47-santa-cook-89a0e840667a65ecb831.js.map"
+      "path---episodes-47-santa-cook-efc7a9c29f1cc1d313cf.js",
+      "path---episodes-47-santa-cook-efc7a9c29f1cc1d313cf.js.map"
+    ],
+    "path---episodes-a-townatthe-moviesis-live": [
+      "path---episodes-a-townatthe-moviesis-live-6403b0146bc4a15f030c.js",
+      "path---episodes-a-townatthe-moviesis-live-6403b0146bc4a15f030c.js.map"
     ],
     "path---patreon": [
       "path---patreon-a0e39f21c11f6a62c5ab.js",
       "path---patreon-a0e39f21c11f6a62c5ab.js.map"
     ],
-    "path---episodes-34-those-with-glass-toilets-shouldn-t-wage-12-th-century-war": [
-      "path---episodes-34-those-with-glass-toilets-shouldn-t-wage-12-th-century-war-3690335ce8e307771be0.js",
-      "path---episodes-34-those-with-glass-toilets-shouldn-t-wage-12-th-century-war-3690335ce8e307771be0.js.map"
+    "path---episodes-39-nicks-corner": [
+      "path---episodes-39-nicks-corner-9004cbe63d07f51cf79d.js",
+      "path---episodes-39-nicks-corner-9004cbe63d07f51cf79d.js.map"
+    ],
+    "path---episodes-25-dans-meltdown-alkhobar-tower-smirk-emoji-and-stranger-things-2": [
+      "path---episodes-25-dans-meltdown-alkhobar-tower-smirk-emoji-and-stranger-things-2-cb82e82a8426e53edb80.js",
+      "path---episodes-25-dans-meltdown-alkhobar-tower-smirk-emoji-and-stranger-things-2-cb82e82a8426e53edb80.js.map"
+    ],
+    "path---episodes-52-coffee-colaand-new-social-media": [
+      "path---episodes-52-coffee-colaand-new-social-media-07e6828a72193a182d21.js",
+      "path---episodes-52-coffee-colaand-new-social-media-07e6828a72193a182d21.js.map"
     ],
     "component---src-pages-patreon-js": [
       "component---src-pages-patreon-js-bf3a7e8e54ec11098267.js",
       "component---src-pages-patreon-js-bf3a7e8e54ec11098267.js.map"
     ],
     "path---episodes-2-baby-driver-first-impressions": [
-      "path---episodes-2-baby-driver-first-impressions-b378db5cf76ba1680c05.js",
-      "path---episodes-2-baby-driver-first-impressions-b378db5cf76ba1680c05.js.map"
+      "path---episodes-2-baby-driver-first-impressions-da17fa871051a6c9917e.js",
+      "path---episodes-2-baby-driver-first-impressions-da17fa871051a6c9917e.js.map"
     ],
-    "path---episodes-59-harry-potter-and-the-sorcerers-stone": [
-      "path---episodes-59-harry-potter-and-the-sorcerers-stone-67ed505d157d8629e47a.js",
-      "path---episodes-59-harry-potter-and-the-sorcerers-stone-67ed505d157d8629e47a.js.map"
+    "path---episodes-24-batmansa-murderer-ea-ruins-battlefront-christmas-movie-criteria": [
+      "path---episodes-24-batmansa-murderer-ea-ruins-battlefront-christmas-movie-criteria-ea10bf7e5f9897ce4712.js",
+      "path---episodes-24-batmansa-murderer-ea-ruins-battlefront-christmas-movie-criteria-ea10bf7e5f9897ce4712.js.map"
     ],
     "path---episodes-26-christmas-special": [
-      "path---episodes-26-christmas-special-2b3c7c233923a5aec558.js",
-      "path---episodes-26-christmas-special-2b3c7c233923a5aec558.js.map"
+      "path---episodes-26-christmas-special-bf4de261f7eb35394bc5.js",
+      "path---episodes-26-christmas-special-bf4de261f7eb35394bc5.js.map"
     ],
     "path---episodes-3-spider-man-homecoming-the-spider-man-episode": [
-      "path---episodes-3-spider-man-homecoming-the-spider-man-episode-4fa4d081d4bae701b921.js",
-      "path---episodes-3-spider-man-homecoming-the-spider-man-episode-4fa4d081d4bae701b921.js.map"
+      "path---episodes-3-spider-man-homecoming-the-spider-man-episode-aeafa0ee107ad9e0d7fa.js",
+      "path---episodes-3-spider-man-homecoming-the-spider-man-episode-aeafa0ee107ad9e0d7fa.js.map"
     ],
     "component---src-layouts-index-js": [
       "component---src-layouts-index-js-1c364ade7908464316bb.js",
       "component---src-layouts-index-js-1c364ade7908464316bb.js.map"
     ],
     "path---episodes-18-modern-art-debate-boston-drama-time-travel-and-pizza-talk": [
-      "path---episodes-18-modern-art-debate-boston-drama-time-travel-and-pizza-talk-037751ecd51be25bd070.js",
-      "path---episodes-18-modern-art-debate-boston-drama-time-travel-and-pizza-talk-037751ecd51be25bd070.js.map"
+      "path---episodes-18-modern-art-debate-boston-drama-time-travel-and-pizza-talk-53df598ef84d7e7ed065.js",
+      "path---episodes-18-modern-art-debate-boston-drama-time-travel-and-pizza-talk-53df598ef84d7e7ed065.js.map"
     ],
     "path---episodes-22-thor-ragnarok": [
-      "path---episodes-22-thor-ragnarok-5321012d2d34d3c1e346.js",
-      "path---episodes-22-thor-ragnarok-5321012d2d34d3c1e346.js.map"
+      "path---episodes-22-thor-ragnarok-8c605846d6cc27aa6b46.js",
+      "path---episodes-22-thor-ragnarok-8c605846d6cc27aa6b46.js.map"
     ],
     "path---episodes-42-a-quiet-place": [
-      "path---episodes-42-a-quiet-place-5d767dec3674aac21233.js",
-      "path---episodes-42-a-quiet-place-5d767dec3674aac21233.js.map"
+      "path---episodes-42-a-quiet-place-7a77c00f4a98c461f55d.js",
+      "path---episodes-42-a-quiet-place-7a77c00f4a98c461f55d.js.map"
+    ],
+    "path---episodes-5-warforthe-planetofthe-apes": [
+      "path---episodes-5-warforthe-planetofthe-apes-8798b92a98b04386a1c4.js",
+      "path---episodes-5-warforthe-planetofthe-apes-8798b92a98b04386a1c4.js.map"
     ],
     "path---episodes-35-black-panther-a-review": [
-      "path---episodes-35-black-panther-a-review-bd063e25f9b4292cfda2.js",
-      "path---episodes-35-black-panther-a-review-bd063e25f9b4292cfda2.js.map"
-    ],
-    "path---episodes-10-retrospective-nick-s-corner-eclipse-follow-up-shirts": [
-      "path---episodes-10-retrospective-nick-s-corner-eclipse-follow-up-shirts-c0ba1849bd0ec607fbcf.js",
-      "path---episodes-10-retrospective-nick-s-corner-eclipse-follow-up-shirts-c0ba1849bd0ec607fbcf.js.map"
+      "path---episodes-35-black-panther-a-review-63db09190889cd8927c8.js",
+      "path---episodes-35-black-panther-a-review-63db09190889cd8927c8.js.map"
     ],
     "path---episodes-44-avengers-infinity-war": [
-      "path---episodes-44-avengers-infinity-war-6ac5431af361681987c2.js",
-      "path---episodes-44-avengers-infinity-war-6ac5431af361681987c2.js.map"
+      "path---episodes-44-avengers-infinity-war-91adb5dc08e7ce69fe68.js",
+      "path---episodes-44-avengers-infinity-war-91adb5dc08e7ce69fe68.js.map"
     ],
     "path---episodes-40-ready-player-one": [
-      "path---episodes-40-ready-player-one-9e7bac9a4b73c8fd98e1.js",
-      "path---episodes-40-ready-player-one-9e7bac9a4b73c8fd98e1.js.map"
+      "path---episodes-40-ready-player-one-43ea3d5fc3356c915be9.js",
+      "path---episodes-40-ready-player-one-43ea3d5fc3356c915be9.js.map"
     ],
     "path---index": [
-      "path---index-7580f9305704b93c9dfa.js",
-      "path---index-7580f9305704b93c9dfa.js.map"
+      "path---index-7e81777b1a2d2adb81f3.js",
+      "path---index-7e81777b1a2d2adb81f3.js.map"
     ],
     "path---subscribe": [
       "path---subscribe-a0e39f21c11f6a62c5ab.js",
       "path---subscribe-a0e39f21c11f6a62c5ab.js.map"
     ],
+    "path---episodes-445-infinity-war-follow-up-a-town-sidebar": [
+      "path---episodes-445-infinity-war-follow-up-a-town-sidebar-0cfb07d2e4bf35cf27ef.js",
+      "path---episodes-445-infinity-war-follow-up-a-town-sidebar-0cfb07d2e4bf35cf27ef.js.map"
+    ],
     "path---episodes-13-destiny-2-console-wars-reddit-follow-up-stack-exchange-tv-schedules": [
-      "path---episodes-13-destiny-2-console-wars-reddit-follow-up-stack-exchange-tv-schedules-3d0e2ee60ee8242274d6.js",
-      "path---episodes-13-destiny-2-console-wars-reddit-follow-up-stack-exchange-tv-schedules-3d0e2ee60ee8242274d6.js.map"
+      "path---episodes-13-destiny-2-console-wars-reddit-follow-up-stack-exchange-tv-schedules-07e53be1042892673ec0.js",
+      "path---episodes-13-destiny-2-console-wars-reddit-follow-up-stack-exchange-tv-schedules-07e53be1042892673ec0.js.map"
     ],
-    "path---episodes-60-are-we-old-enough-to-say-young-people-now": [
-      "path---episodes-60-are-we-old-enough-to-say-young-people-now-ae8fbefa4c995e2f242b.js",
-      "path---episodes-60-are-we-old-enough-to-say-young-people-now-ae8fbefa4c995e2f242b.js.map"
+    "path---episodes-38-settlingthe-scorewith-time-spaceand-reality": [
+      "path---episodes-38-settlingthe-scorewith-time-spaceand-reality-1a8c84e8ce1b0df3f71d.js",
+      "path---episodes-38-settlingthe-scorewith-time-spaceand-reality-1a8c84e8ce1b0df3f71d.js.map"
     ],
-    "path---episodes-5-war-for-the-planet-of-the-apes": [
-      "path---episodes-5-war-for-the-planet-of-the-apes-a47a4fa6f4582bb55ca4.js",
-      "path---episodes-5-war-for-the-planet-of-the-apes-a47a4fa6f4582bb55ca4.js.map"
+    "path---episodes-30-nintendo-labo-post-office-andthe-scienceof-plot-holes": [
+      "path---episodes-30-nintendo-labo-post-office-andthe-scienceof-plot-holes-65e3ca288ee8bfd8dff4.js",
+      "path---episodes-30-nintendo-labo-post-office-andthe-scienceof-plot-holes-65e3ca288ee8bfd8dff4.js.map"
+    ],
+    "path---episodes-37-seor-putin": [
+      "path---episodes-37-seor-putin-313566c737a7264cefb8.js",
+      "path---episodes-37-seor-putin-313566c737a7264cefb8.js.map"
+    ],
+    "path---episodes-53-making-salads-we-standonthe-shouldersof-giants": [
+      "path---episodes-53-making-salads-we-standonthe-shouldersof-giants-70b97bd2b243c615923e.js",
+      "path---episodes-53-making-salads-we-standonthe-shouldersof-giants-70b97bd2b243c615923e.js.map"
+    ],
+    "path---episodes-60-are-we-old-enoughto-say-young-people-now": [
+      "path---episodes-60-are-we-old-enoughto-say-young-people-now-dae867587e0e607dd3b4.js",
+      "path---episodes-60-are-we-old-enoughto-say-young-people-now-dae867587e0e607dd3b4.js.map"
     ],
     "path---episodes-16-blade-runner-2049": [
-      "path---episodes-16-blade-runner-2049-ac8dc2ec9a182f7f70c1.js",
-      "path---episodes-16-blade-runner-2049-ac8dc2ec9a182f7f70c1.js.map"
+      "path---episodes-16-blade-runner-2049-38f9bdf1ed1caad0525d.js",
+      "path---episodes-16-blade-runner-2049-38f9bdf1ed1caad0525d.js.map"
     ],
     "commons": [
       "commons-0c0f85dc268d6280e9a0.js",
@@ -198,119 +206,111 @@
       "commons-0c0f85dc268d6280e9a0.js.map",
       "build-js-styles.css.map"
     ],
+    "path---episodes-17-movie-pass-waite-park-tragedy-novelty-dans-fall-extravaganza-boston": [
+      "path---episodes-17-movie-pass-waite-park-tragedy-novelty-dans-fall-extravaganza-boston-a21559bd38cab4e1ce69.js",
+      "path---episodes-17-movie-pass-waite-park-tragedy-novelty-dans-fall-extravaganza-boston-a21559bd38cab4e1ce69.js.map"
+    ],
     "path---episodes-29-the-cursing-episode": [
-      "path---episodes-29-the-cursing-episode-cb64c170a75a1faae9af.js",
-      "path---episodes-29-the-cursing-episode-cb64c170a75a1faae9af.js.map"
+      "path---episodes-29-the-cursing-episode-803b4f72c7b2e5ffbdc5.js",
+      "path---episodes-29-the-cursing-episode-803b4f72c7b2e5ffbdc5.js.map"
     ],
-    "path---episodes-54-the-crossover-event-everyone-s-been-waiting-for-with-dani-wright": [
-      "path---episodes-54-the-crossover-event-everyone-s-been-waiting-for-with-dani-wright-c34e8d9b83f1200e9ffb.js",
-      "path---episodes-54-the-crossover-event-everyone-s-been-waiting-for-with-dani-wright-c34e8d9b83f1200e9ffb.js.map"
+    "path---episodes-20-gunpowder-plot-bonfire-night-vfor-vendetta": [
+      "path---episodes-20-gunpowder-plot-bonfire-night-vfor-vendetta-fb93bf70c6e8fca91ffb.js",
+      "path---episodes-20-gunpowder-plot-bonfire-night-vfor-vendetta-fb93bf70c6e8fca91ffb.js.map"
     ],
-    "path---episodes-8-solar-eclipse-talk-with-meteorologist-kevin-c-burns": [
-      "path---episodes-8-solar-eclipse-talk-with-meteorologist-kevin-c-burns-530cf31d30b185d8b872.js",
-      "path---episodes-8-solar-eclipse-talk-with-meteorologist-kevin-c-burns-530cf31d30b185d8b872.js.map"
-    ],
-    "path---episodes-44-5-infinity-war-follow-up-a-town-sidebar": [
-      "path---episodes-44-5-infinity-war-follow-up-a-town-sidebar-acfdce4df3739a7f3dcf.js",
-      "path---episodes-44-5-infinity-war-follow-up-a-town-sidebar-acfdce4df3739a7f3dcf.js.map"
+    "path---episodes-7-letstalkaboutspoilers-internationalfame-emoji-movie-disaster-valerian-andthe-confederateshow": [
+      "path---episodes-7-letstalkaboutspoilers-internationalfame-emoji-movie-disaster-valerian-andthe-confederateshow-22ffc28ca84ef03866a8.js",
+      "path---episodes-7-letstalkaboutspoilers-internationalfame-emoji-movie-disaster-valerian-andthe-confederateshow-22ffc28ca84ef03866a8.js.map"
     ],
     "path---episodes-15-original-bladerunner-coffee-cups-i-os-11-ar": [
-      "path---episodes-15-original-bladerunner-coffee-cups-i-os-11-ar-ef14191f4c32fd5fb9a4.js",
-      "path---episodes-15-original-bladerunner-coffee-cups-i-os-11-ar-ef14191f4c32fd5fb9a4.js.map"
+      "path---episodes-15-original-bladerunner-coffee-cups-i-os-11-ar-089076e277c0381e5d52.js",
+      "path---episodes-15-original-bladerunner-coffee-cups-i-os-11-ar-089076e277c0381e5d52.js.map"
     ],
-    "path---episodes-38-settling-the-score-with-time-space-and-reality": [
-      "path---episodes-38-settling-the-score-with-time-space-and-reality-4da913d1f59801c41c48.js",
-      "path---episodes-38-settling-the-score-with-time-space-and-reality-4da913d1f59801c41c48.js.map"
+    "path---episodes-4-listener-feedback-jazz-music-and-dans-tech-gripe": [
+      "path---episodes-4-listener-feedback-jazz-music-and-dans-tech-gripe-3e2f301d59e3c12e3ded.js",
+      "path---episodes-4-listener-feedback-jazz-music-and-dans-tech-gripe-3e2f301d59e3c12e3ded.js.map"
     ],
     "path---episodes-11-water-tower-twitter-marketing-dark-knight-debacle-social-media": [
-      "path---episodes-11-water-tower-twitter-marketing-dark-knight-debacle-social-media-c920f86517bb0b3c0dc2.js",
-      "path---episodes-11-water-tower-twitter-marketing-dark-knight-debacle-social-media-c920f86517bb0b3c0dc2.js.map"
+      "path---episodes-11-water-tower-twitter-marketing-dark-knight-debacle-social-media-ddc5aa1758cd12660504.js",
+      "path---episodes-11-water-tower-twitter-marketing-dark-knight-debacle-social-media-ddc5aa1758cd12660504.js.map"
     ],
     "path---episodes-57-im-good-with-blaming-the-british": [
-      "path---episodes-57-im-good-with-blaming-the-british-dfd56bc63dd6c7dd2c33.js",
-      "path---episodes-57-im-good-with-blaming-the-british-dfd56bc63dd6c7dd2c33.js.map"
+      "path---episodes-57-im-good-with-blaming-the-british-af2bf835c34c116dd7a2.js",
+      "path---episodes-57-im-good-with-blaming-the-british-af2bf835c34c116dd7a2.js.map"
     ],
-    "path---episodes-58-treasure-the-dream-whatever-the-terror": [
-      "path---episodes-58-treasure-the-dream-whatever-the-terror-9dad4c4094e7e1ba29ca.js",
-      "path---episodes-58-treasure-the-dream-whatever-the-terror-9dad4c4094e7e1ba29ca.js.map"
+    "path---episodes-33-0213-18-bonus-episode-cloverfield-paradox": [
+      "path---episodes-33-0213-18-bonus-episode-cloverfield-paradox-04746ff6f4a497beeeb8.js",
+      "path---episodes-33-0213-18-bonus-episode-cloverfield-paradox-04746ff6f4a497beeeb8.js.map"
     ],
     "component---src-pages-subscribe-js": [
       "component---src-pages-subscribe-js-93a32ff5bda53f77d931.js",
       "component---src-pages-subscribe-js-93a32ff5bda53f77d931.js.map"
     ],
-    "path---episodes-17-movie-pass-waite-park-tragedy-novelty-dan-s-fall-extravaganza-boston": [
-      "path---episodes-17-movie-pass-waite-park-tragedy-novelty-dan-s-fall-extravaganza-boston-7b1c84c781c2c00a7c39.js",
-      "path---episodes-17-movie-pass-waite-park-tragedy-novelty-dan-s-fall-extravaganza-boston-7b1c84c781c2c00a7c39.js.map"
-    ],
     "path---episodes-23-justice-league": [
-      "path---episodes-23-justice-league-9e2cd0d5b5ec7b144686.js",
-      "path---episodes-23-justice-league-9e2cd0d5b5ec7b144686.js.map"
+      "path---episodes-23-justice-league-900770001150345a347a.js",
+      "path---episodes-23-justice-league-900770001150345a347a.js.map"
+    ],
+    "path---episodes-34-thosewith-glass-toilets-shouldnt-wage-12-th-century-war": [
+      "path---episodes-34-thosewith-glass-toilets-shouldnt-wage-12-th-century-war-474d4375747bec37e3fc.js",
+      "path---episodes-34-thosewith-glass-toilets-shouldnt-wage-12-th-century-war-474d4375747bec37e3fc.js.map"
     ],
     "app": [
-      "app-0ea85ab4c00bb0bb0bd6.js",
+      "app-886fe5259248f59c5940.js",
       "build-js-styles.css",
-      "app-0ea85ab4c00bb0bb0bd6.js.map",
+      "app-886fe5259248f59c5940.js.map",
       "build-js-styles.css.map"
     ],
-    "path---episodes-31-offending-europe-part-2-tv-remakes-oscars-preshow": [
-      "path---episodes-31-offending-europe-part-2-tv-remakes-oscars-preshow-014deacdf9a49f7439c1.js",
-      "path---episodes-31-offending-europe-part-2-tv-remakes-oscars-preshow-014deacdf9a49f7439c1.js.map"
-    ],
-    "path---episodes-20-gunpowder-plot-bonfire-night-v-for-vendetta": [
-      "path---episodes-20-gunpowder-plot-bonfire-night-v-for-vendetta-7ae513dbc92fb185e2b6.js",
-      "path---episodes-20-gunpowder-plot-bonfire-night-v-for-vendetta-7ae513dbc92fb185e2b6.js.map"
-    ],
-    "path---episodes-14-instagram-sucks-parking-ticket-protest-marketing-lab-podcast-envy-not-as-advertised": [
-      "path---episodes-14-instagram-sucks-parking-ticket-protest-marketing-lab-podcast-envy-not-as-advertised-f061a9fd06165bb94ab3.js",
-      "path---episodes-14-instagram-sucks-parking-ticket-protest-marketing-lab-podcast-envy-not-as-advertised-f061a9fd06165bb94ab3.js.map"
-    ],
     "path---episodes-51-dani-corner": [
-      "path---episodes-51-dani-corner-5b0f2c1aab0c1fbb4576.js",
-      "path---episodes-51-dani-corner-5b0f2c1aab0c1fbb4576.js.map"
+      "path---episodes-51-dani-corner-942c0720fdba9e90f258.js",
+      "path---episodes-51-dani-corner-942c0720fdba9e90f258.js.map"
     ],
     "component---src-templates-episode-post-js": [
       "component---src-templates-episode-post-js-c211b4009b7d65684fa3.js",
       "component---src-templates-episode-post-js-c211b4009b7d65684fa3.js.map"
     ],
     "path---episodes-56-hatching-twitter": [
-      "path---episodes-56-hatching-twitter-afae772f3154774c1455.js",
-      "path---episodes-56-hatching-twitter-afae772f3154774c1455.js.map"
+      "path---episodes-56-hatching-twitter-d17d320587de6ab3c903.js",
+      "path---episodes-56-hatching-twitter-d17d320587de6ab3c903.js.map"
     ],
-    "path---episodes-33-02-13-18-bonus-episode-cloverfield-paradox": [
-      "path---episodes-33-02-13-18-bonus-episode-cloverfield-paradox-e3db43dfdff049d4ad7f.js",
-      "path---episodes-33-02-13-18-bonus-episode-cloverfield-paradox-e3db43dfdff049d4ad7f.js.map"
-    ],
-    "path---episodes-21-offending-europe-instagram-sucks-part-2-disney-takeover-streaming-services-dan-s-weird-experience": [
-      "path---episodes-21-offending-europe-instagram-sucks-part-2-disney-takeover-streaming-services-dan-s-weird-experience-00c4079b6e598763061d.js",
-      "path---episodes-21-offending-europe-instagram-sucks-part-2-disney-takeover-streaming-services-dan-s-weird-experience-00c4079b6e598763061d.js.map"
+    "path---episodes-9-new-dog-movie-pass-cinema-sins-practicalvs-vfx": [
+      "path---episodes-9-new-dog-movie-pass-cinema-sins-practicalvs-vfx-36bc11eca67cc880f538.js",
+      "path---episodes-9-new-dog-movie-pass-cinema-sins-practicalvs-vfx-36bc11eca67cc880f538.js.map"
     ],
     "path---episodes-46-pranks-brains-and-propaganda": [
-      "path---episodes-46-pranks-brains-and-propaganda-00d6fd305ffca4abbdd3.js",
-      "path---episodes-46-pranks-brains-and-propaganda-00d6fd305ffca4abbdd3.js.map"
+      "path---episodes-46-pranks-brains-and-propaganda-694fef5dbf2232ce3db3.js",
+      "path---episodes-46-pranks-brains-and-propaganda-694fef5dbf2232ce3db3.js.map"
     ],
     "component---src-pages-about-js": [
       "component---src-pages-about-js-3aa2b14bd500a7f852ea.js",
       "component---src-pages-about-js-3aa2b14bd500a7f852ea.js.map"
     ],
-    "path---episodes-6-dunkirk-imax-digital-vs-analog-vr-hans-zimmer": [
-      "path---episodes-6-dunkirk-imax-digital-vs-analog-vr-hans-zimmer-4a2553b27dd6f36f1020.js",
-      "path---episodes-6-dunkirk-imax-digital-vs-analog-vr-hans-zimmer-4a2553b27dd6f36f1020.js.map"
+    "path---episodes-31-offending-europe-part-2-t-vremakes-oscars-preshow": [
+      "path---episodes-31-offending-europe-part-2-t-vremakes-oscars-preshow-df156f321560f4337553.js",
+      "path---episodes-31-offending-europe-part-2-t-vremakes-oscars-preshow-df156f321560f4337553.js.map"
     ],
     "path---episodes-49-merica": [
-      "path---episodes-49-merica-0b6e4ef423e30470501d.js",
-      "path---episodes-49-merica-0b6e4ef423e30470501d.js.map"
+      "path---episodes-49-merica-c10a3968ece2e2059371.js",
+      "path---episodes-49-merica-c10a3968ece2e2059371.js.map"
     ],
     "path---about": [
       "path---about-a0e39f21c11f6a62c5ab.js",
       "path---about-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---episodes-32-jim-henson-book-talk-space-x-and-super-bowl-trailers": [
-      "path---episodes-32-jim-henson-book-talk-space-x-and-super-bowl-trailers-303f9e09d338835c2661.js",
-      "path---episodes-32-jim-henson-book-talk-space-x-and-super-bowl-trailers-303f9e09d338835c2661.js.map"
+      "path---episodes-32-jim-henson-book-talk-space-x-and-super-bowl-trailers-c81882fa45e389cd48ea.js",
+      "path---episodes-32-jim-henson-book-talk-space-x-and-super-bowl-trailers-c81882fa45e389cd48ea.js.map"
     ],
-    "path---episodes-25-dan-s-meltdown-alkhobar-tower-smirk-emoji-and-stranger-things-2": [
-      "path---episodes-25-dan-s-meltdown-alkhobar-tower-smirk-emoji-and-stranger-things-2-91b914fd5b61f572c277.js",
-      "path---episodes-25-dan-s-meltdown-alkhobar-tower-smirk-emoji-and-stranger-things-2-91b914fd5b61f572c277.js.map"
+    "path---episodes-6-dunkirk-imax-digitalvs-analog-vr-hans-zimmer": [
+      "path---episodes-6-dunkirk-imax-digitalvs-analog-vr-hans-zimmer-9424282069ef60a9e1fa.js",
+      "path---episodes-6-dunkirk-imax-digitalvs-analog-vr-hans-zimmer-9424282069ef60a9e1fa.js.map"
+    ],
+    "path---episodes-21-offending-europe-instagram-sucks-part-2-disney-takeover-streaming-services-dans-weird-experience": [
+      "path---episodes-21-offending-europe-instagram-sucks-part-2-disney-takeover-streaming-services-dans-weird-experience-608235040dff77ad739b.js",
+      "path---episodes-21-offending-europe-instagram-sucks-part-2-disney-takeover-streaming-services-dans-weird-experience-608235040dff77ad739b.js.map"
+    ],
+    "path---episodes-14-instagram-sucks-parking-ticket-protest-marketing-lab-podcast-envy-notas-advertised": [
+      "path---episodes-14-instagram-sucks-parking-ticket-protest-marketing-lab-podcast-envy-notas-advertised-71d81608d0cefd816407.js",
+      "path---episodes-14-instagram-sucks-parking-ticket-protest-marketing-lab-podcast-envy-notas-advertised-71d81608d0cefd816407.js.map"
     ]
   }
 }
