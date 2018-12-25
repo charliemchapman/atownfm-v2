@@ -165,8 +165,8 @@
       "path---episodes-40-ready-player-one-43ea3d5fc3356c915be9.js.map"
     ],
     "path---index": [
-      "path---index-ace97891f7276e96ae16.js",
-      "path---index-ace97891f7276e96ae16.js.map"
+      "path---index-9ad983d1f7655ee29f9b.js",
+      "path---index-9ad983d1f7655ee29f9b.js.map"
     ],
     "path---subscribe": [
       "path---subscribe-a0e39f21c11f6a62c5ab.js",
@@ -259,9 +259,9 @@
       "path---episodes-34-thosewith-glass-toilets-shouldnt-wage-12-th-century-war-474d4375747bec37e3fc.js.map"
     ],
     "app": [
-      "app-13ef86f28ff66d2b78f8.js",
+      "app-b4052144c2adcdc8b1ab.js",
       "build-js-styles.css",
-      "app-13ef86f28ff66d2b78f8.js.map",
+      "app-b4052144c2adcdc8b1ab.js.map",
       "build-js-styles.css.map"
     ],
     "path---episodes-51-dani-corner": [
@@ -315,6 +315,10 @@
     "path---episodes-14-instagram-sucks-parking-ticket-protest-marketing-lab-podcast-envy-notas-advertised": [
       "path---episodes-14-instagram-sucks-parking-ticket-protest-marketing-lab-podcast-envy-notas-advertised-71d81608d0cefd816407.js",
       "path---episodes-14-instagram-sucks-parking-ticket-protest-marketing-lab-podcast-envy-notas-advertised-71d81608d0cefd816407.js.map"
+    ],
+    "path---episodes-62-the-star-wars-prequels": [
+      "path---episodes-62-the-star-wars-prequels-1e6234d434894efefe6d.js",
+      "path---episodes-62-the-star-wars-prequels-1e6234d434894efefe6d.js.map"
     ]
   }
 }
