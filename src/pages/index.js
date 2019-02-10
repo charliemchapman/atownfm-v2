@@ -1,11 +1,42 @@
 import React from "react"
-import FeaturedPost from '../components/FeaturedPost';
+import FeaturedEpisode from '../components/FeaturedEpisode';
+import FeaturedBlogPost from '../components/FeaturedBlogPost';
 import PostSummaryList from '../components/PostSummaryList';
 
-export default ({data}) => { console.log("data: ", data); return (
+export default ({data}) => { 
+  let rssEpisodes = data.allRssFeedItem.edges.map(edge=>{
+    return {
+      type: "rss",
+      date: edge.node.pubDate,
+      post: edge.node
+    }
+  });
+
+  let blogPosts = data.allMarkdownRemark.edges.map(edge=> {
+    return {
+      type: "blog",
+      date: edge.node.frontmatter.date,
+      post: edge.node
+    }
+  });
+
+  let allPostsSorted = [...rssEpisodes, ...blogPosts].sort((a,b) => {
+    return  new Date(b.date) - new Date(a.date);
+  })
+
+  let featuredPostJsx;
+  let featuredPost = allPostsSorted[0];
+  if (featuredPost.type === "rss"){
+    featuredPostJsx = <FeaturedEpisode episode={allPostsSorted[0]}/>
+  }
+  else if (featuredPost.type === "blog") {
+    featuredPostJsx = <FeaturedBlogPost post={allPostsSorted[0]}/>
+  }
+
+  return (
     <div>
-        <FeaturedPost episode={data.allRssFeedItem.edges[0].node}/>
-        <PostSummaryList data={data}/>
+        {featuredPostJsx}
+        <PostSummaryList data={data} posts={allPostsSorted}/>
     </div>
 )}
 
@@ -21,7 +52,6 @@ export const query = graphql`
                 frontmatter {
                   title
                   date(formatString: "DD MMMM, YYYY")
-                  number
                   imageUrl
                 }
                 excerpt(pruneLength: 80)
