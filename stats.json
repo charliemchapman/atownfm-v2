@@ -29,8 +29,8 @@
       "path---episodes-58-treasurethe-dream-whateverthe-terror-f81c5f7126ea20a82948.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-0af0b6395c65016e75fa.js",
-      "component---src-pages-index-js-0af0b6395c65016e75fa.js.map"
+      "component---src-pages-index-js-b30a9de74af4d70132ba.js",
+      "component---src-pages-index-js-b30a9de74af4d70132ba.js.map"
     ],
     "path---episodes-28-lists-allthe-way-down": [
       "path---episodes-28-lists-allthe-way-down-b0c8194f982ff82f0cb1.js",
@@ -80,6 +80,10 @@
       "path---shows-a0e39f21c11f6a62c5ab.js",
       "path---shows-a0e39f21c11f6a62c5ab.js.map"
     ],
+    "path---posts-2019-02-10-oscars-2019-form": [
+      "path---posts-2019-02-10-oscars-2019-form-25f89e61aa922dbf9edf.js",
+      "path---posts-2019-02-10-oscars-2019-form-25f89e61aa922dbf9edf.js.map"
+    ],
     "path---episodes-1-spider-man-posters-how-to-news-andy-serkis": [
       "path---episodes-1-spider-man-posters-how-to-news-andy-serkis-395c72d80d4d611d6348.js",
       "path---episodes-1-spider-man-posters-how-to-news-andy-serkis-395c72d80d4d611d6348.js.map"
@@ -123,6 +127,10 @@
     "path---episodes-24-batmansa-murderer-ea-ruins-battlefront-christmas-movie-criteria": [
       "path---episodes-24-batmansa-murderer-ea-ruins-battlefront-christmas-movie-criteria-ea10bf7e5f9897ce4712.js",
       "path---episodes-24-batmansa-murderer-ea-ruins-battlefront-christmas-movie-criteria-ea10bf7e5f9897ce4712.js.map"
+    ],
+    "component---src-templates-blog-post-js": [
+      "component---src-templates-blog-post-js-eb07bf20dc0694dfb2e1.js",
+      "component---src-templates-blog-post-js-eb07bf20dc0694dfb2e1.js.map"
     ],
     "path---episodes-26-christmas-special": [
       "path---episodes-26-christmas-special-bf4de261f7eb35394bc5.js",
@@ -169,8 +177,8 @@
       "path---episodes-40-ready-player-one-43ea3d5fc3356c915be9.js.map"
     ],
     "path---index": [
-      "path---index-c0eaac84c13d0a7db18c.js",
-      "path---index-c0eaac84c13d0a7db18c.js.map"
+      "path---index-aac3522a1b05e8865b9b.js",
+      "path---index-aac3522a1b05e8865b9b.js.map"
     ],
     "path---subscribe": [
       "path---subscribe-a0e39f21c11f6a62c5ab.js",
@@ -187,6 +195,10 @@
     "path---episodes-38-settlingthe-scorewith-time-spaceand-reality": [
       "path---episodes-38-settlingthe-scorewith-time-spaceand-reality-1a8c84e8ce1b0df3f71d.js",
       "path---episodes-38-settlingthe-scorewith-time-spaceand-reality-1a8c84e8ce1b0df3f71d.js.map"
+    ],
+    "path---posts-2018-03-7-oscars-2018-results": [
+      "path---posts-2018-03-7-oscars-2018-results-4994289554334ec19331.js",
+      "path---posts-2018-03-7-oscars-2018-results-4994289554334ec19331.js.map"
     ],
     "path---episodes-30-nintendo-labo-post-office-andthe-scienceof-plot-holes": [
       "path---episodes-30-nintendo-labo-post-office-andthe-scienceof-plot-holes-65e3ca288ee8bfd8dff4.js",
@@ -263,9 +275,9 @@
       "path---episodes-34-thosewith-glass-toilets-shouldnt-wage-12-th-century-war-474d4375747bec37e3fc.js.map"
     ],
     "app": [
-      "app-73371ad04bb41fafeedb.js",
+      "app-f4de42b9ead8d254b2c7.js",
       "build-js-styles.css",
-      "app-73371ad04bb41fafeedb.js.map",
+      "app-f4de42b9ead8d254b2c7.js.map",
       "build-js-styles.css.map"
     ],
     "path---episodes-63-its-hardto-disagree-with-gilmore-girls": [
