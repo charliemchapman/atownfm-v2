@@ -80,10 +80,6 @@
       "path---shows-a0e39f21c11f6a62c5ab.js",
       "path---shows-a0e39f21c11f6a62c5ab.js.map"
     ],
-    "path---posts-2019-02-10-oscars-2019-form": [
-      "path---posts-2019-02-10-oscars-2019-form-25f89e61aa922dbf9edf.js",
-      "path---posts-2019-02-10-oscars-2019-form-25f89e61aa922dbf9edf.js.map"
-    ],
     "path---episodes-1-spider-man-posters-how-to-news-andy-serkis": [
       "path---episodes-1-spider-man-posters-how-to-news-andy-serkis-395c72d80d4d611d6348.js",
       "path---episodes-1-spider-man-posters-how-to-news-andy-serkis-395c72d80d4d611d6348.js.map"
@@ -177,8 +173,8 @@
       "path---episodes-40-ready-player-one-43ea3d5fc3356c915be9.js.map"
     ],
     "path---index": [
-      "path---index-aac3522a1b05e8865b9b.js",
-      "path---index-aac3522a1b05e8865b9b.js.map"
+      "path---index-16681eb8952191e235dd.js",
+      "path---index-16681eb8952191e235dd.js.map"
     ],
     "path---subscribe": [
       "path---subscribe-a0e39f21c11f6a62c5ab.js",
@@ -275,9 +271,9 @@
       "path---episodes-34-thosewith-glass-toilets-shouldnt-wage-12-th-century-war-474d4375747bec37e3fc.js.map"
     ],
     "app": [
-      "app-f4de42b9ead8d254b2c7.js",
+      "app-227de0e27aa347dfcbc2.js",
       "build-js-styles.css",
-      "app-f4de42b9ead8d254b2c7.js.map",
+      "app-227de0e27aa347dfcbc2.js.map",
       "build-js-styles.css.map"
     ],
     "path---episodes-63-its-hardto-disagree-with-gilmore-girls": [
@@ -307,6 +303,10 @@
     "component---src-pages-about-js": [
       "component---src-pages-about-js-3aa2b14bd500a7f852ea.js",
       "component---src-pages-about-js-3aa2b14bd500a7f852ea.js.map"
+    ],
+    "path---posts-2019-02-13-oscars-2019-form": [
+      "path---posts-2019-02-13-oscars-2019-form-f6cc2364af9ceef2244c.js",
+      "path---posts-2019-02-13-oscars-2019-form-f6cc2364af9ceef2244c.js.map"
     ],
     "path---episodes-31-offending-europe-part-2-t-vremakes-oscars-preshow": [
       "path---episodes-31-offending-europe-part-2-t-vremakes-oscars-preshow-df156f321560f4337553.js",
