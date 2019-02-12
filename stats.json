@@ -24,6 +24,10 @@
       "component---src-pages-shows-js-5df540803dc5a359582b.js",
       "component---src-pages-shows-js-5df540803dc5a359582b.js.map"
     ],
+    "path---episodes-65-birds-bees-with-dan": [
+      "path---episodes-65-birds-bees-with-dan-7cb1bbc7f4555638b625.js",
+      "path---episodes-65-birds-bees-with-dan-7cb1bbc7f4555638b625.js.map"
+    ],
     "path---episodes-58-treasurethe-dream-whateverthe-terror": [
       "path---episodes-58-treasurethe-dream-whateverthe-terror-f81c5f7126ea20a82948.js",
       "path---episodes-58-treasurethe-dream-whateverthe-terror-f81c5f7126ea20a82948.js.map"
@@ -173,8 +177,8 @@
       "path---episodes-40-ready-player-one-43ea3d5fc3356c915be9.js.map"
     ],
     "path---index": [
-      "path---index-16681eb8952191e235dd.js",
-      "path---index-16681eb8952191e235dd.js.map"
+      "path---index-b628d6d5d9883dff999d.js",
+      "path---index-b628d6d5d9883dff999d.js.map"
     ],
     "path---subscribe": [
       "path---subscribe-a0e39f21c11f6a62c5ab.js",
@@ -271,9 +275,9 @@
       "path---episodes-34-thosewith-glass-toilets-shouldnt-wage-12-th-century-war-474d4375747bec37e3fc.js.map"
     ],
     "app": [
-      "app-227de0e27aa347dfcbc2.js",
+      "app-e3dc9ff2e8503af45f02.js",
       "build-js-styles.css",
-      "app-227de0e27aa347dfcbc2.js.map",
+      "app-e3dc9ff2e8503af45f02.js.map",
       "build-js-styles.css.map"
     ],
     "path---episodes-63-its-hardto-disagree-with-gilmore-girls": [
