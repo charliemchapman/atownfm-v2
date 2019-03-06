@@ -48,6 +48,10 @@
       "path---episodes-59-harry-potterandthe-sorcerers-stone-6af33d9af59c9d444d90.js",
       "path---episodes-59-harry-potterandthe-sorcerers-stone-6af33d9af59c9d444d90.js.map"
     ],
+    "path---episodes-67-behindthe-curve": [
+      "path---episodes-67-behindthe-curve-a171b82e19f9e3571237.js",
+      "path---episodes-67-behindthe-curve-a171b82e19f9e3571237.js.map"
+    ],
     "path---episodes-27-star-wars-the-last-jedi": [
       "path---episodes-27-star-wars-the-last-jedi-94353ae35a3a4dcd163f.js",
       "path---episodes-27-star-wars-the-last-jedi-94353ae35a3a4dcd163f.js.map"
@@ -181,8 +185,8 @@
       "path---episodes-40-ready-player-one-43ea3d5fc3356c915be9.js.map"
     ],
     "path---index": [
-      "path---index-c8696bea92e63637d6a2.js",
-      "path---index-c8696bea92e63637d6a2.js.map"
+      "path---index-4e48b10c6c29e80f36f9.js",
+      "path---index-4e48b10c6c29e80f36f9.js.map"
     ],
     "path---subscribe": [
       "path---subscribe-a0e39f21c11f6a62c5ab.js",
@@ -279,9 +283,9 @@
       "path---episodes-34-thosewith-glass-toilets-shouldnt-wage-12-th-century-war-474d4375747bec37e3fc.js.map"
     ],
     "app": [
-      "app-4d33f738efae6a4f03b7.js",
+      "app-120333cc3d600dea344e.js",
       "build-js-styles.css",
-      "app-4d33f738efae6a4f03b7.js.map",
+      "app-120333cc3d600dea344e.js.map",
       "build-js-styles.css.map"
     ],
     "path---episodes-63-its-hardto-disagree-with-gilmore-girls": [
