@@ -192,6 +192,10 @@
       "path---episodes-35-black-panther-a-review-63db09190889cd8927c8.js",
       "path---episodes-35-black-panther-a-review-63db09190889cd8927c8.js.map"
     ],
+    "path---episodes-76-stolen-valor": [
+      "path---episodes-76-stolen-valor-f83aa7109b5875d72012.js",
+      "path---episodes-76-stolen-valor-f83aa7109b5875d72012.js.map"
+    ],
     "path---episodes-70-gameof-thrones-seasons-1-7": [
       "path---episodes-70-gameof-thrones-seasons-1-7-3e0ccbfe6644e8218eab.js",
       "path---episodes-70-gameof-thrones-seasons-1-7-3e0ccbfe6644e8218eab.js.map"
@@ -205,8 +209,8 @@
       "path---episodes-40-ready-player-one-43ea3d5fc3356c915be9.js.map"
     ],
     "path---index": [
-      "path---index-c4b7d81e56c624059a1a.js",
-      "path---index-c4b7d81e56c624059a1a.js.map"
+      "path---index-a45a4d0e738a198bbcfc.js",
+      "path---index-a45a4d0e738a198bbcfc.js.map"
     ],
     "path---subscribe": [
       "path---subscribe-a0e39f21c11f6a62c5ab.js",
@@ -311,9 +315,9 @@
       "path---episodes-34-thosewith-glass-toilets-shouldnt-wage-12-th-century-war-474d4375747bec37e3fc.js.map"
     ],
     "app": [
-      "app-04d3c88ab597a4c2e76f.js",
+      "app-e7e0e7faabcd2bde9d61.js",
       "build-js-styles.css",
-      "app-04d3c88ab597a4c2e76f.js.map",
+      "app-e7e0e7faabcd2bde9d61.js.map",
       "build-js-styles.css.map"
     ],
     "path---episodes-63-its-hardto-disagree-with-gilmore-girls": [
