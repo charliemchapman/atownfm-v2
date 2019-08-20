@@ -209,8 +209,8 @@
       "path---episodes-40-ready-player-one-43ea3d5fc3356c915be9.js.map"
     ],
     "path---index": [
-      "path---index-a45a4d0e738a198bbcfc.js",
-      "path---index-a45a4d0e738a198bbcfc.js.map"
+      "path---index-2b0c058a9334521d862d.js",
+      "path---index-2b0c058a9334521d862d.js.map"
     ],
     "path---subscribe": [
       "path---subscribe-a0e39f21c11f6a62c5ab.js",
@@ -306,6 +306,10 @@
       "component---src-pages-subscribe-js-93a32ff5bda53f77d931.js",
       "component---src-pages-subscribe-js-93a32ff5bda53f77d931.js.map"
     ],
+    "path---episodes-77-backdoor-manhandling": [
+      "path---episodes-77-backdoor-manhandling-d583a198ccd1ed4bb4fc.js",
+      "path---episodes-77-backdoor-manhandling-d583a198ccd1ed4bb4fc.js.map"
+    ],
     "path---episodes-23-justice-league": [
       "path---episodes-23-justice-league-900770001150345a347a.js",
       "path---episodes-23-justice-league-900770001150345a347a.js.map"
@@ -315,9 +319,9 @@
       "path---episodes-34-thosewith-glass-toilets-shouldnt-wage-12-th-century-war-474d4375747bec37e3fc.js.map"
     ],
     "app": [
-      "app-e7e0e7faabcd2bde9d61.js",
+      "app-1912e3eb211d65fcf33d.js",
       "build-js-styles.css",
-      "app-e7e0e7faabcd2bde9d61.js.map",
+      "app-1912e3eb211d65fcf33d.js.map",
       "build-js-styles.css.map"
     ],
     "path---episodes-63-its-hardto-disagree-with-gilmore-girls": [
