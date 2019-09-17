@@ -200,6 +200,10 @@
       "path---episodes-70-gameof-thrones-seasons-1-7-3e0ccbfe6644e8218eab.js",
       "path---episodes-70-gameof-thrones-seasons-1-7-3e0ccbfe6644e8218eab.js.map"
     ],
+    "path---episodes-78-the-big-apple": [
+      "path---episodes-78-the-big-apple-9a47fd484399bbf4edf6.js",
+      "path---episodes-78-the-big-apple-9a47fd484399bbf4edf6.js.map"
+    ],
     "path---episodes-44-avengers-infinity-war": [
       "path---episodes-44-avengers-infinity-war-91adb5dc08e7ce69fe68.js",
       "path---episodes-44-avengers-infinity-war-91adb5dc08e7ce69fe68.js.map"
@@ -209,8 +213,8 @@
       "path---episodes-40-ready-player-one-43ea3d5fc3356c915be9.js.map"
     ],
     "path---index": [
-      "path---index-2b0c058a9334521d862d.js",
-      "path---index-2b0c058a9334521d862d.js.map"
+      "path---index-b0872e7c085585e87dd7.js",
+      "path---index-b0872e7c085585e87dd7.js.map"
     ],
     "path---subscribe": [
       "path---subscribe-a0e39f21c11f6a62c5ab.js",
@@ -319,9 +323,9 @@
       "path---episodes-34-thosewith-glass-toilets-shouldnt-wage-12-th-century-war-474d4375747bec37e3fc.js.map"
     ],
     "app": [
-      "app-1912e3eb211d65fcf33d.js",
+      "app-96db0481cbd8d427c30f.js",
       "build-js-styles.css",
-      "app-1912e3eb211d65fcf33d.js.map",
+      "app-96db0481cbd8d427c30f.js.map",
       "build-js-styles.css.map"
     ],
     "path---episodes-63-its-hardto-disagree-with-gilmore-girls": [
