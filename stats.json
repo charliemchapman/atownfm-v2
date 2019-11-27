@@ -41,8 +41,8 @@
       "path---episodes-58-treasurethe-dream-whateverthe-terror-f81c5f7126ea20a82948.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-f1c18c4ab0e6ab465113.js",
-      "component---src-pages-index-js-f1c18c4ab0e6ab465113.js.map"
+      "component---src-pages-index-js-7d5102d1e62ad1a1b828.js",
+      "component---src-pages-index-js-7d5102d1e62ad1a1b828.js.map"
     ],
     "path---episodes-72-the-juicy-topics-area-lot-less-whimsical": [
       "path---episodes-72-the-juicy-topics-area-lot-less-whimsical-195c5654640869041647.js",
@@ -165,8 +165,8 @@
       "path---episodes-3-spider-man-homecoming-the-spider-man-episode-aeafa0ee107ad9e0d7fa.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-1c364ade7908464316bb.js",
-      "component---src-layouts-index-js-1c364ade7908464316bb.js.map"
+      "component---src-layouts-index-js-fc3cd1b2e863054f851a.js",
+      "component---src-layouts-index-js-fc3cd1b2e863054f851a.js.map"
     ],
     "path---episodes-18-modern-art-debate-boston-drama-time-travel-and-pizza-talk": [
       "path---episodes-18-modern-art-debate-boston-drama-time-travel-and-pizza-talk-53df598ef84d7e7ed065.js",
@@ -213,8 +213,8 @@
       "path---episodes-40-ready-player-one-43ea3d5fc3356c915be9.js.map"
     ],
     "path---index": [
-      "path---index-b0872e7c085585e87dd7.js",
-      "path---index-b0872e7c085585e87dd7.js.map"
+      "path---index-3f13f7bc696cb5e57544.js",
+      "path---index-3f13f7bc696cb5e57544.js.map"
     ],
     "path---subscribe": [
       "path---subscribe-a0e39f21c11f6a62c5ab.js",
@@ -257,9 +257,9 @@
       "path---episodes-16-blade-runner-2049-38f9bdf1ed1caad0525d.js.map"
     ],
     "commons": [
-      "commons-0c0f85dc268d6280e9a0.js",
+      "commons-aacd910024075f87671c.js",
       "build-js-styles.css",
-      "commons-0c0f85dc268d6280e9a0.js.map",
+      "commons-aacd910024075f87671c.js.map",
       "build-js-styles.css.map"
     ],
     "path---episodes-17-movie-pass-waite-park-tragedy-novelty-dans-fall-extravaganza-boston": [
@@ -323,9 +323,9 @@
       "path---episodes-34-thosewith-glass-toilets-shouldnt-wage-12-th-century-war-474d4375747bec37e3fc.js.map"
     ],
     "app": [
-      "app-96db0481cbd8d427c30f.js",
+      "app-5be9667c06bdf1aa108c.js",
       "build-js-styles.css",
-      "app-96db0481cbd8d427c30f.js.map",
+      "app-5be9667c06bdf1aa108c.js.map",
       "build-js-styles.css.map"
     ],
     "path---episodes-63-its-hardto-disagree-with-gilmore-girls": [
@@ -355,6 +355,10 @@
     "component---src-pages-about-js": [
       "component---src-pages-about-js-3aa2b14bd500a7f852ea.js",
       "component---src-pages-about-js-3aa2b14bd500a7f852ea.js.map"
+    ],
+    "path---episodes-79-the-streaming-wars-have-begun": [
+      "path---episodes-79-the-streaming-wars-have-begun-b85c7fd823de102c659d.js",
+      "path---episodes-79-the-streaming-wars-have-begun-b85c7fd823de102c659d.js.map"
     ],
     "path---posts-2019-02-13-oscars-2019-form": [
       "path---posts-2019-02-13-oscars-2019-form-d0edab4e13369ca6f087.js",
